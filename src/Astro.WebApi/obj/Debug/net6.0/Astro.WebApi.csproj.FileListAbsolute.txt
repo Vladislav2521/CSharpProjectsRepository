@@ -1,0 +1,395 @@
+P:\Projects\Astro\src\Astro.WebApi\obj\Debug\net6.0\Astro.WebApi.csproj.AssemblyReference.cache
+P:\Projects\Astro\src\Astro.WebApi\obj\Debug\net6.0\Astro.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+P:\Projects\Astro\src\Astro.WebApi\obj\Debug\net6.0\Astro.WebApi.AssemblyInfoInputs.cache
+P:\Projects\Astro\src\Astro.WebApi\obj\Debug\net6.0\Astro.WebApi.AssemblyInfo.cs
+P:\Projects\Astro\src\Astro.WebApi\obj\Debug\net6.0\Astro.WebApi.csproj.CoreCompileInputs.cache
+P:\Projects\Astro\src\Astro.WebApi\obj\Debug\net6.0\Astro.WebApi.MvcApplicationPartsAssemblyInfo.cs
+P:\Projects\Astro\src\Astro.WebApi\obj\Debug\net6.0\Astro.WebApi.MvcApplicationPartsAssemblyInfo.cache
+P:\Projects\Astro\src\Astro.WebApi\bin\Debug\net6.0\appsettings.Development.json
+P:\Projects\Astro\src\Astro.WebApi\bin\Debug\net6.0\appsettings.json
+P:\Projects\Astro\src\Astro.WebApi\bin\Debug\net6.0\Astro.WebApi.exe
+P:\Projects\Astro\src\Astro.WebApi\bin\Debug\net6.0\Astro.WebApi.deps.json
+P:\Projects\Astro\src\Astro.WebApi\bin\Debug\net6.0\Astro.WebApi.runtimeconfig.json
+P:\Projects\Astro\src\Astro.WebApi\bin\Debug\net6.0\Astro.WebApi.dll
+P:\Projects\Astro\src\Astro.WebApi\bin\Debug\net6.0\Astro.WebApi.pdb
+P:\Projects\Astro\src\Astro.WebApi\bin\Debug\net6.0\AutoMapper.dll
+P:\Projects\Astro\src\Astro.WebApi\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+P:\Projects\Astro\src\Astro.WebApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+P:\Projects\Astro\src\Astro.WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+P:\Projects\Astro\src\Astro.WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+P:\Projects\Astro\src\Astro.WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+P:\Projects\Astro\src\Astro.WebApi\bin\Debug\net6.0\Astro.Application.dll
+P:\Projects\Astro\src\Astro.WebApi\bin\Debug\net6.0\Astro.Database.dll
+P:\Projects\Astro\src\Astro.WebApi\bin\Debug\net6.0\Astro.Application.pdb
+P:\Projects\Astro\src\Astro.WebApi\bin\Debug\net6.0\Astro.Database.pdb
+P:\Projects\Astro\src\Astro.WebApi\obj\Debug\net6.0\staticwebassets.build.json
+P:\Projects\Astro\src\Astro.WebApi\obj\Debug\net6.0\staticwebassets.development.json
+P:\Projects\Astro\src\Astro.WebApi\obj\Debug\net6.0\scopedcss\bundle\Astro.WebApi.styles.css
+P:\Projects\Astro\src\Astro.WebApi\obj\Debug\net6.0\Astro.WebApi.csproj.CopyComplete
+P:\Projects\Astro\src\Astro.WebApi\obj\Debug\net6.0\Astro.WebApi.dll
+P:\Projects\Astro\src\Astro.WebApi\obj\Debug\net6.0\refint\Astro.WebApi.dll
+P:\Projects\Astro\src\Astro.WebApi\obj\Debug\net6.0\Astro.WebApi.pdb
+P:\Projects\Astro\src\Astro.WebApi\obj\Debug\net6.0\Astro.WebApi.genruntimeconfig.cache
+P:\Projects\Astro\src\Astro.WebApi\obj\Debug\net6.0\ref\Astro.WebApi.dll
+P:\Projects\Astro\src\Astro.WebApi\bin\Debug\net6.0\EFCore.NamingConventions.dll
+P:\Projects\Astro\src\Astro.WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+P:\Projects\Astro\src\Astro.WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+P:\Projects\Astro\src\Astro.WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+P:\Projects\Astro\src\Astro.WebApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+P:\Projects\Astro\src\Astro.WebApi\bin\Debug\net6.0\Npgsql.dll
+P:\Projects\Astro\src\Astro.WebApi\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+P:\Projects\Astro\src\Astro.WebApi\bin\Debug\net6.0\Astro.Domain.dll
+P:\Projects\Astro\src\Astro.WebApi\bin\Debug\net6.0\Astro.Domain.pdb
+P:\Projects\Astro\src\Astro.WebApi\bin\Debug\net6.0\Astro.Contracts.dll
+P:\Projects\Astro\src\Astro.WebApi\bin\Debug\net6.0\Astro.Contracts.pdb
+P:\Projects\Astro\src\Astro.WebApi\bin\Debug\net6.0\Humanizer.dll
+P:\Projects\Astro\src\Astro.WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+P:\Projects\Astro\src\Astro.WebApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+P:\Projects\Astro\src\Astro.WebApi\bin\Debug\net6.0\MediatR.dll
+P:\Projects\Astro\src\Astro.WebApi\bin\Debug\net6.0\MediatR.Contracts.dll
+P:\Projects\Astro\src\Astro.WebApi\bin\Debug\net6.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+P:\Projects\Astro\src\Astro.WebApi\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+P:\Projects\Astro\src\Astro.WebApi\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+P:\Projects\Astro\src\Astro.WebApi\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+P:\Projects\Astro\src\Astro.WebApi\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+P:\Projects\Astro\src\Astro.WebApi\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+P:\Projects\Astro\src\Astro.WebApi\bin\Debug\net6.0\System.Security.Permissions.dll
+P:\Projects\Astro\src\Astro.WebApi\bin\Debug\net6.0\FluentValidation.dll
+P:\Projects\Astro\src\Astro.WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+P:\Projects\Astro\src\Astro.WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+P:\Projects\Astro\src\Astro.WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+P:\Projects\Astro\src\Astro.WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+P:\Projects\Astro\src\Astro.WebApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+P:\Projects\Astro\src\Astro.WebApi\bin\Debug\net6.0\Astro.Infrasructure.dll
+P:\Projects\Astro\src\Astro.WebApi\bin\Debug\net6.0\Astro.Infrasructure.pdb
+P:\Projects\Astro\src\Astro.WebApi\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+P:\Projects\Astro\src\Astro.WebApi\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.Negotiate.dll
+P:\Projects\Astro\src\Astro.WebApi\bin\Debug\net6.0\Microsoft.AspNetCore.Connections.Abstractions.dll
+P:\Projects\Astro\src\Astro.WebApi\bin\Debug\net6.0\Microsoft.Extensions.Features.dll
+P:\Projects\Astro\src\Astro.WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+P:\Projects\Astro\src\Astro.WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+P:\Projects\Astro\src\Astro.WebApi\bin\Debug\net6.0\System.DirectoryServices.Protocols.dll
+P:\Projects\Astro\src\Astro.WebApi\bin\Debug\net6.0\System.IO.Pipelines.dll
+P:\Projects\Astro\src\Astro.WebApi\bin\Debug\net6.0\runtimes\linux\lib\net6.0\System.DirectoryServices.Protocols.dll
+P:\Projects\Astro\src\Astro.WebApi\bin\Debug\net6.0\runtimes\osx\lib\net6.0\System.DirectoryServices.Protocols.dll
+P:\Projects\Astro\src\Astro.WebApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.DirectoryServices.Protocols.dll
+P:\Projects\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\appsettings.Development.json
+P:\Projects\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\appsettings.json
+P:\Projects\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\Astro.WebApi.exe
+P:\Projects\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\Astro.WebApi.deps.json
+P:\Projects\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\Astro.WebApi.runtimeconfig.json
+P:\Projects\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\Astro.WebApi.dll
+P:\Projects\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\Astro.WebApi.pdb
+P:\Projects\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\AutoMapper.dll
+P:\Projects\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+P:\Projects\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\EFCore.NamingConventions.dll
+P:\Projects\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\FluentValidation.dll
+P:\Projects\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\Humanizer.dll
+P:\Projects\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\MediatR.dll
+P:\Projects\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\MediatR.Contracts.dll
+P:\Projects\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+P:\Projects\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+P:\Projects\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.Negotiate.dll
+P:\Projects\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\Microsoft.AspNetCore.Connections.Abstractions.dll
+P:\Projects\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+P:\Projects\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+P:\Projects\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+P:\Projects\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+P:\Projects\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+P:\Projects\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+P:\Projects\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+P:\Projects\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+P:\Projects\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+P:\Projects\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\Microsoft.Extensions.Features.dll
+P:\Projects\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+P:\Projects\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+P:\Projects\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+P:\Projects\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+P:\Projects\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+P:\Projects\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+P:\Projects\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+P:\Projects\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+P:\Projects\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+P:\Projects\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\Npgsql.dll
+P:\Projects\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+P:\Projects\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+P:\Projects\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+P:\Projects\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+P:\Projects\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\System.DirectoryServices.Protocols.dll
+P:\Projects\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+P:\Projects\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\System.IO.Pipelines.dll
+P:\Projects\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\System.Security.Permissions.dll
+P:\Projects\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\runtimes\linux\lib\net6.0\System.DirectoryServices.Protocols.dll
+P:\Projects\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\runtimes\osx\lib\net6.0\System.DirectoryServices.Protocols.dll
+P:\Projects\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.DirectoryServices.Protocols.dll
+P:\Projects\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\Astro.Application.dll
+P:\Projects\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\Astro.Contracts.dll
+P:\Projects\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\Astro.Database.dll
+P:\Projects\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\Astro.Domain.dll
+P:\Projects\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\Astro.Infrasructure.dll
+P:\Projects\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\Astro.Application.pdb
+P:\Projects\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\Astro.Database.pdb
+P:\Projects\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\Astro.Domain.pdb
+P:\Projects\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\Astro.Infrasructure.pdb
+P:\Projects\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\Astro.Contracts.pdb
+P:\Projects\Astro — копия\src\Astro.WebApi\obj\Debug\net6.0\Astro.WebApi.csproj.AssemblyReference.cache
+P:\Projects\Astro — копия\src\Astro.WebApi\obj\Debug\net6.0\Astro.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+P:\Projects\Astro — копия\src\Astro.WebApi\obj\Debug\net6.0\Astro.WebApi.AssemblyInfoInputs.cache
+P:\Projects\Astro — копия\src\Astro.WebApi\obj\Debug\net6.0\Astro.WebApi.AssemblyInfo.cs
+P:\Projects\Astro — копия\src\Astro.WebApi\obj\Debug\net6.0\Astro.WebApi.csproj.CoreCompileInputs.cache
+P:\Projects\Astro — копия\src\Astro.WebApi\obj\Debug\net6.0\Astro.WebApi.MvcApplicationPartsAssemblyInfo.cs
+P:\Projects\Astro — копия\src\Astro.WebApi\obj\Debug\net6.0\Astro.WebApi.MvcApplicationPartsAssemblyInfo.cache
+P:\Projects\Astro — копия\src\Astro.WebApi\obj\Debug\net6.0\staticwebassets\msbuild.Astro.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+P:\Projects\Astro — копия\src\Astro.WebApi\obj\Debug\net6.0\staticwebassets\msbuild.build.Astro.WebApi.props
+P:\Projects\Astro — копия\src\Astro.WebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Astro.WebApi.props
+P:\Projects\Astro — копия\src\Astro.WebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Astro.WebApi.props
+P:\Projects\Astro — копия\src\Astro.WebApi\obj\Debug\net6.0\staticwebassets.pack.json
+P:\Projects\Astro — копия\src\Astro.WebApi\obj\Debug\net6.0\staticwebassets.build.json
+P:\Projects\Astro — копия\src\Astro.WebApi\obj\Debug\net6.0\staticwebassets.development.json
+P:\Projects\Astro — копия\src\Astro.WebApi\obj\Debug\net6.0\scopedcss\bundle\Astro.WebApi.styles.css
+P:\Projects\Astro — копия\src\Astro.WebApi\obj\Debug\net6.0\Astro.WebApi.csproj.CopyComplete
+P:\Projects\Astro — копия\src\Astro.WebApi\obj\Debug\net6.0\Astro.WebApi.dll
+P:\Projects\Astro — копия\src\Astro.WebApi\obj\Debug\net6.0\refint\Astro.WebApi.dll
+P:\Projects\Astro — копия\src\Astro.WebApi\obj\Debug\net6.0\Astro.WebApi.pdb
+P:\Projects\Astro — копия\src\Astro.WebApi\obj\Debug\net6.0\Astro.WebApi.genruntimeconfig.cache
+P:\Projects\Astro — копия\src\Astro.WebApi\obj\Debug\net6.0\ref\Astro.WebApi.dll
+D:\Programming Projects\CSharp projects\Astro — копия\src\Astro.WebApi\obj\Debug\net6.0\Astro.WebApi.dll
+D:\Programming Projects\CSharp projects\Astro — копия\src\Astro.WebApi\obj\Debug\net6.0\refint\Astro.WebApi.dll
+D:\Programming Projects\CSharp projects\Astro — копия\src\Astro.WebApi\obj\Debug\net6.0\Astro.WebApi.pdb
+D:\Programming Projects\CSharp projects\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\appsettings.Development.json
+D:\Programming Projects\CSharp projects\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\appsettings.json
+D:\Programming Projects\CSharp projects\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\Astro.WebApi.exe
+D:\Programming Projects\CSharp projects\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\Astro.WebApi.deps.json
+D:\Programming Projects\CSharp projects\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\Astro.WebApi.runtimeconfig.json
+D:\Programming Projects\CSharp projects\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\Astro.WebApi.dll
+D:\Programming Projects\CSharp projects\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\Astro.WebApi.pdb
+D:\Programming Projects\CSharp projects\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\AutoMapper.dll
+D:\Programming Projects\CSharp projects\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Programming Projects\CSharp projects\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\EFCore.NamingConventions.dll
+D:\Programming Projects\CSharp projects\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\FluentValidation.dll
+D:\Programming Projects\CSharp projects\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\Humanizer.dll
+D:\Programming Projects\CSharp projects\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\MediatR.dll
+D:\Programming Projects\CSharp projects\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\MediatR.Contracts.dll
+D:\Programming Projects\CSharp projects\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+D:\Programming Projects\CSharp projects\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Programming Projects\CSharp projects\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.Negotiate.dll
+D:\Programming Projects\CSharp projects\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\Programming Projects\CSharp projects\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Programming Projects\CSharp projects\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Programming Projects\CSharp projects\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Programming Projects\CSharp projects\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Programming Projects\CSharp projects\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Programming Projects\CSharp projects\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Programming Projects\CSharp projects\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Programming Projects\CSharp projects\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Programming Projects\CSharp projects\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Programming Projects\CSharp projects\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\Microsoft.Extensions.Features.dll
+D:\Programming Projects\CSharp projects\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+D:\Programming Projects\CSharp projects\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Programming Projects\CSharp projects\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Programming Projects\CSharp projects\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Programming Projects\CSharp projects\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Programming Projects\CSharp projects\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Programming Projects\CSharp projects\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Programming Projects\CSharp projects\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Programming Projects\CSharp projects\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Programming Projects\CSharp projects\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\Npgsql.dll
+D:\Programming Projects\CSharp projects\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\Programming Projects\CSharp projects\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Programming Projects\CSharp projects\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Programming Projects\CSharp projects\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Programming Projects\CSharp projects\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\System.DirectoryServices.Protocols.dll
+D:\Programming Projects\CSharp projects\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Programming Projects\CSharp projects\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\System.IO.Pipelines.dll
+D:\Programming Projects\CSharp projects\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Programming Projects\CSharp projects\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\runtimes\linux\lib\net6.0\System.DirectoryServices.Protocols.dll
+D:\Programming Projects\CSharp projects\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\runtimes\osx\lib\net6.0\System.DirectoryServices.Protocols.dll
+D:\Programming Projects\CSharp projects\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.DirectoryServices.Protocols.dll
+D:\Programming Projects\CSharp projects\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\Astro.Application.dll
+D:\Programming Projects\CSharp projects\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\Astro.Contracts.dll
+D:\Programming Projects\CSharp projects\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\Astro.Database.dll
+D:\Programming Projects\CSharp projects\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\Astro.Domain.dll
+D:\Programming Projects\CSharp projects\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\Astro.Infrasructure.dll
+D:\Programming Projects\CSharp projects\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\Astro.Application.pdb
+D:\Programming Projects\CSharp projects\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\Astro.Database.pdb
+D:\Programming Projects\CSharp projects\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\Astro.Contracts.pdb
+D:\Programming Projects\CSharp projects\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\Astro.Domain.pdb
+D:\Programming Projects\CSharp projects\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\Astro.Infrasructure.pdb
+D:\Programming Projects\CSharp projects\Astro — копия\src\Astro.WebApi\obj\Debug\net6.0\Astro.WebApi.csproj.AssemblyReference.cache
+D:\Programming Projects\CSharp projects\Astro — копия\src\Astro.WebApi\obj\Debug\net6.0\Astro.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming Projects\CSharp projects\Astro — копия\src\Astro.WebApi\obj\Debug\net6.0\Astro.WebApi.AssemblyInfoInputs.cache
+D:\Programming Projects\CSharp projects\Astro — копия\src\Astro.WebApi\obj\Debug\net6.0\Astro.WebApi.AssemblyInfo.cs
+D:\Programming Projects\CSharp projects\Astro — копия\src\Astro.WebApi\obj\Debug\net6.0\Astro.WebApi.csproj.CoreCompileInputs.cache
+D:\Programming Projects\CSharp projects\Astro — копия\src\Astro.WebApi\obj\Debug\net6.0\Astro.WebApi.MvcApplicationPartsAssemblyInfo.cs
+D:\Programming Projects\CSharp projects\Astro — копия\src\Astro.WebApi\obj\Debug\net6.0\Astro.WebApi.MvcApplicationPartsAssemblyInfo.cache
+D:\Programming Projects\CSharp projects\Astro — копия\src\Astro.WebApi\obj\Debug\net6.0\staticwebassets\msbuild.Astro.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Programming Projects\CSharp projects\Astro — копия\src\Astro.WebApi\obj\Debug\net6.0\staticwebassets\msbuild.build.Astro.WebApi.props
+D:\Programming Projects\CSharp projects\Astro — копия\src\Astro.WebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Astro.WebApi.props
+D:\Programming Projects\CSharp projects\Astro — копия\src\Astro.WebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Astro.WebApi.props
+D:\Programming Projects\CSharp projects\Astro — копия\src\Astro.WebApi\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Programming Projects\CSharp projects\Astro — копия\src\Astro.WebApi\obj\Debug\net6.0\staticwebassets.build.json
+D:\Programming Projects\CSharp projects\Astro — копия\src\Astro.WebApi\obj\Debug\net6.0\staticwebassets.development.json
+D:\Programming Projects\CSharp projects\Astro — копия\src\Astro.WebApi\obj\Debug\net6.0\scopedcss\bundle\Astro.WebApi.styles.css
+D:\Programming Projects\CSharp projects\Astro — копия\src\Astro.WebApi\obj\Debug\net6.0\Astro.WebApi.csproj.CopyComplete
+D:\Programming Projects\CSharp projects\Astro — копия\src\Astro.WebApi\obj\Debug\net6.0\Astro.WebApi.genruntimeconfig.cache
+D:\Programming Projects\CSharp projects\Astro — копия\src\Astro.WebApi\obj\Debug\net6.0\ref\Astro.WebApi.dll
+E:\Programming Projects\CSharp projects\Astro — копия\src\Astro.WebApi\obj\Debug\net6.0\Astro.WebApi.csproj.AssemblyReference.cache
+E:\Programming Projects\CSharp projects\Astro — копия\src\Astro.WebApi\obj\Debug\net6.0\Astro.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming Projects\CSharp projects\Astro — копия\src\Astro.WebApi\obj\Debug\net6.0\Astro.WebApi.AssemblyInfoInputs.cache
+E:\Programming Projects\CSharp projects\Astro — копия\src\Astro.WebApi\obj\Debug\net6.0\Astro.WebApi.AssemblyInfo.cs
+E:\Programming Projects\CSharp projects\Astro — копия\src\Astro.WebApi\obj\Debug\net6.0\Astro.WebApi.csproj.CoreCompileInputs.cache
+E:\Programming Projects\CSharp projects\Astro — копия\src\Astro.WebApi\obj\Debug\net6.0\Astro.WebApi.MvcApplicationPartsAssemblyInfo.cs
+E:\Programming Projects\CSharp projects\Astro — копия\src\Astro.WebApi\obj\Debug\net6.0\Astro.WebApi.MvcApplicationPartsAssemblyInfo.cache
+E:\Programming Projects\CSharp projects\Astro — копия\src\Astro.WebApi\obj\Debug\net6.0\Astro.WebApi.dll
+E:\Programming Projects\CSharp projects\Astro — копия\src\Astro.WebApi\obj\Debug\net6.0\refint\Astro.WebApi.dll
+E:\Programming Projects\CSharp projects\Astro — копия\src\Astro.WebApi\obj\Debug\net6.0\Astro.WebApi.pdb
+E:\Programming Projects\CSharp projects\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\appsettings.Development.json
+E:\Programming Projects\CSharp projects\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\appsettings.json
+E:\Programming Projects\CSharp projects\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\Astro.WebApi.exe
+E:\Programming Projects\CSharp projects\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\Astro.WebApi.deps.json
+E:\Programming Projects\CSharp projects\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\Astro.WebApi.runtimeconfig.json
+E:\Programming Projects\CSharp projects\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\Astro.WebApi.dll
+E:\Programming Projects\CSharp projects\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\Astro.WebApi.pdb
+E:\Programming Projects\CSharp projects\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\AutoMapper.dll
+E:\Programming Projects\CSharp projects\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\Programming Projects\CSharp projects\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\EFCore.NamingConventions.dll
+E:\Programming Projects\CSharp projects\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\FluentValidation.dll
+E:\Programming Projects\CSharp projects\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\Humanizer.dll
+E:\Programming Projects\CSharp projects\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\MediatR.dll
+E:\Programming Projects\CSharp projects\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\MediatR.Contracts.dll
+E:\Programming Projects\CSharp projects\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+E:\Programming Projects\CSharp projects\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Programming Projects\CSharp projects\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.Negotiate.dll
+E:\Programming Projects\CSharp projects\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\Microsoft.AspNetCore.Connections.Abstractions.dll
+E:\Programming Projects\CSharp projects\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\Programming Projects\CSharp projects\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\Programming Projects\CSharp projects\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\Programming Projects\CSharp projects\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\Programming Projects\CSharp projects\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Programming Projects\CSharp projects\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Programming Projects\CSharp projects\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Programming Projects\CSharp projects\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Programming Projects\CSharp projects\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Programming Projects\CSharp projects\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\Microsoft.Extensions.Features.dll
+E:\Programming Projects\CSharp projects\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+E:\Programming Projects\CSharp projects\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+E:\Programming Projects\CSharp projects\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Programming Projects\CSharp projects\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Programming Projects\CSharp projects\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\Programming Projects\CSharp projects\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\Programming Projects\CSharp projects\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Programming Projects\CSharp projects\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\Programming Projects\CSharp projects\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\Programming Projects\CSharp projects\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\Npgsql.dll
+E:\Programming Projects\CSharp projects\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+E:\Programming Projects\CSharp projects\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Programming Projects\CSharp projects\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Programming Projects\CSharp projects\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Programming Projects\CSharp projects\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\System.DirectoryServices.Protocols.dll
+E:\Programming Projects\CSharp projects\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Programming Projects\CSharp projects\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\System.IO.Pipelines.dll
+E:\Programming Projects\CSharp projects\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\Programming Projects\CSharp projects\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\runtimes\linux\lib\net6.0\System.DirectoryServices.Protocols.dll
+E:\Programming Projects\CSharp projects\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\runtimes\osx\lib\net6.0\System.DirectoryServices.Protocols.dll
+E:\Programming Projects\CSharp projects\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.DirectoryServices.Protocols.dll
+E:\Programming Projects\CSharp projects\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\Astro.Application.dll
+E:\Programming Projects\CSharp projects\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\Astro.Contracts.dll
+E:\Programming Projects\CSharp projects\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\Astro.Database.dll
+E:\Programming Projects\CSharp projects\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\Astro.Domain.dll
+E:\Programming Projects\CSharp projects\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\Astro.Infrasructure.dll
+E:\Programming Projects\CSharp projects\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\Astro.Application.pdb
+E:\Programming Projects\CSharp projects\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\Astro.Database.pdb
+E:\Programming Projects\CSharp projects\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\Astro.Contracts.pdb
+E:\Programming Projects\CSharp projects\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\Astro.Domain.pdb
+E:\Programming Projects\CSharp projects\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\Astro.Infrasructure.pdb
+E:\Programming Projects\CSharp projects\Astro — копия\src\Astro.WebApi\obj\Debug\net6.0\staticwebassets\msbuild.Astro.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Programming Projects\CSharp projects\Astro — копия\src\Astro.WebApi\obj\Debug\net6.0\staticwebassets\msbuild.build.Astro.WebApi.props
+E:\Programming Projects\CSharp projects\Astro — копия\src\Astro.WebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Astro.WebApi.props
+E:\Programming Projects\CSharp projects\Astro — копия\src\Astro.WebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Astro.WebApi.props
+E:\Programming Projects\CSharp projects\Astro — копия\src\Astro.WebApi\obj\Debug\net6.0\staticwebassets.pack.json
+E:\Programming Projects\CSharp projects\Astro — копия\src\Astro.WebApi\obj\Debug\net6.0\staticwebassets.build.json
+E:\Programming Projects\CSharp projects\Astro — копия\src\Astro.WebApi\obj\Debug\net6.0\staticwebassets.development.json
+E:\Programming Projects\CSharp projects\Astro — копия\src\Astro.WebApi\obj\Debug\net6.0\scopedcss\bundle\Astro.WebApi.styles.css
+E:\Programming Projects\CSharp projects\Astro — копия\src\Astro.WebApi\obj\Debug\net6.0\Astro.WebApi.csproj.CopyComplete
+E:\Programming Projects\CSharp projects\Astro — копия\src\Astro.WebApi\obj\Debug\net6.0\Astro.WebApi.genruntimeconfig.cache
+E:\Programming Projects\CSharp projects\Astro — копия\src\Astro.WebApi\obj\Debug\net6.0\ref\Astro.WebApi.dll
+E:\Programming Projects\CSharp projects repos\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\appsettings.Development.json
+E:\Programming Projects\CSharp projects repos\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\appsettings.json
+E:\Programming Projects\CSharp projects repos\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\Astro.WebApi.exe
+E:\Programming Projects\CSharp projects repos\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\Astro.WebApi.deps.json
+E:\Programming Projects\CSharp projects repos\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\Astro.WebApi.runtimeconfig.json
+E:\Programming Projects\CSharp projects repos\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\Astro.WebApi.dll
+E:\Programming Projects\CSharp projects repos\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\Astro.WebApi.pdb
+E:\Programming Projects\CSharp projects repos\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\AutoMapper.dll
+E:\Programming Projects\CSharp projects repos\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\Programming Projects\CSharp projects repos\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\EFCore.NamingConventions.dll
+E:\Programming Projects\CSharp projects repos\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\FluentValidation.dll
+E:\Programming Projects\CSharp projects repos\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\Humanizer.dll
+E:\Programming Projects\CSharp projects repos\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\MediatR.dll
+E:\Programming Projects\CSharp projects repos\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\MediatR.Contracts.dll
+E:\Programming Projects\CSharp projects repos\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+E:\Programming Projects\CSharp projects repos\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Programming Projects\CSharp projects repos\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.Negotiate.dll
+E:\Programming Projects\CSharp projects repos\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\Microsoft.AspNetCore.Connections.Abstractions.dll
+E:\Programming Projects\CSharp projects repos\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\Programming Projects\CSharp projects repos\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\Programming Projects\CSharp projects repos\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\Programming Projects\CSharp projects repos\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\Programming Projects\CSharp projects repos\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Programming Projects\CSharp projects repos\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Programming Projects\CSharp projects repos\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Programming Projects\CSharp projects repos\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Programming Projects\CSharp projects repos\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Programming Projects\CSharp projects repos\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\Microsoft.Extensions.Features.dll
+E:\Programming Projects\CSharp projects repos\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+E:\Programming Projects\CSharp projects repos\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+E:\Programming Projects\CSharp projects repos\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Programming Projects\CSharp projects repos\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Programming Projects\CSharp projects repos\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\Programming Projects\CSharp projects repos\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\Programming Projects\CSharp projects repos\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Programming Projects\CSharp projects repos\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\Programming Projects\CSharp projects repos\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\Programming Projects\CSharp projects repos\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\Npgsql.dll
+E:\Programming Projects\CSharp projects repos\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+E:\Programming Projects\CSharp projects repos\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Programming Projects\CSharp projects repos\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Programming Projects\CSharp projects repos\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Programming Projects\CSharp projects repos\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\System.DirectoryServices.Protocols.dll
+E:\Programming Projects\CSharp projects repos\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Programming Projects\CSharp projects repos\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\System.IO.Pipelines.dll
+E:\Programming Projects\CSharp projects repos\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\Programming Projects\CSharp projects repos\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\runtimes\linux\lib\net6.0\System.DirectoryServices.Protocols.dll
+E:\Programming Projects\CSharp projects repos\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\runtimes\osx\lib\net6.0\System.DirectoryServices.Protocols.dll
+E:\Programming Projects\CSharp projects repos\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.DirectoryServices.Protocols.dll
+E:\Programming Projects\CSharp projects repos\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\Astro.Application.dll
+E:\Programming Projects\CSharp projects repos\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\Astro.Contracts.dll
+E:\Programming Projects\CSharp projects repos\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\Astro.Database.dll
+E:\Programming Projects\CSharp projects repos\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\Astro.Domain.dll
+E:\Programming Projects\CSharp projects repos\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\Astro.Infrasructure.dll
+E:\Programming Projects\CSharp projects repos\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\Astro.Application.pdb
+E:\Programming Projects\CSharp projects repos\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\Astro.Database.pdb
+E:\Programming Projects\CSharp projects repos\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\Astro.Contracts.pdb
+E:\Programming Projects\CSharp projects repos\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\Astro.Domain.pdb
+E:\Programming Projects\CSharp projects repos\Astro — копия\src\Astro.WebApi\bin\Debug\net6.0\Astro.Infrasructure.pdb
+E:\Programming Projects\CSharp projects repos\Astro — копия\src\Astro.WebApi\obj\Debug\net6.0\Astro.WebApi.csproj.AssemblyReference.cache
+E:\Programming Projects\CSharp projects repos\Astro — копия\src\Astro.WebApi\obj\Debug\net6.0\Astro.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming Projects\CSharp projects repos\Astro — копия\src\Astro.WebApi\obj\Debug\net6.0\Astro.WebApi.AssemblyInfoInputs.cache
+E:\Programming Projects\CSharp projects repos\Astro — копия\src\Astro.WebApi\obj\Debug\net6.0\Astro.WebApi.AssemblyInfo.cs
+E:\Programming Projects\CSharp projects repos\Astro — копия\src\Astro.WebApi\obj\Debug\net6.0\Astro.WebApi.csproj.CoreCompileInputs.cache
+E:\Programming Projects\CSharp projects repos\Astro — копия\src\Astro.WebApi\obj\Debug\net6.0\Astro.WebApi.MvcApplicationPartsAssemblyInfo.cs
+E:\Programming Projects\CSharp projects repos\Astro — копия\src\Astro.WebApi\obj\Debug\net6.0\Astro.WebApi.MvcApplicationPartsAssemblyInfo.cache
+E:\Programming Projects\CSharp projects repos\Astro — копия\src\Astro.WebApi\obj\Debug\net6.0\staticwebassets\msbuild.Astro.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Programming Projects\CSharp projects repos\Astro — копия\src\Astro.WebApi\obj\Debug\net6.0\staticwebassets\msbuild.build.Astro.WebApi.props
+E:\Programming Projects\CSharp projects repos\Astro — копия\src\Astro.WebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Astro.WebApi.props
+E:\Programming Projects\CSharp projects repos\Astro — копия\src\Astro.WebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Astro.WebApi.props
+E:\Programming Projects\CSharp projects repos\Astro — копия\src\Astro.WebApi\obj\Debug\net6.0\staticwebassets.pack.json
+E:\Programming Projects\CSharp projects repos\Astro — копия\src\Astro.WebApi\obj\Debug\net6.0\staticwebassets.build.json
+E:\Programming Projects\CSharp projects repos\Astro — копия\src\Astro.WebApi\obj\Debug\net6.0\staticwebassets.development.json
+E:\Programming Projects\CSharp projects repos\Astro — копия\src\Astro.WebApi\obj\Debug\net6.0\scopedcss\bundle\Astro.WebApi.styles.css
+E:\Programming Projects\CSharp projects repos\Astro — копия\src\Astro.WebApi\obj\Debug\net6.0\Astro.WebApi.csproj.CopyComplete
+E:\Programming Projects\CSharp projects repos\Astro — копия\src\Astro.WebApi\obj\Debug\net6.0\Astro.WebApi.dll
+E:\Programming Projects\CSharp projects repos\Astro — копия\src\Astro.WebApi\obj\Debug\net6.0\refint\Astro.WebApi.dll
+E:\Programming Projects\CSharp projects repos\Astro — копия\src\Astro.WebApi\obj\Debug\net6.0\Astro.WebApi.pdb
+E:\Programming Projects\CSharp projects repos\Astro — копия\src\Astro.WebApi\obj\Debug\net6.0\Astro.WebApi.genruntimeconfig.cache
+E:\Programming Projects\CSharp projects repos\Astro — копия\src\Astro.WebApi\obj\Debug\net6.0\ref\Astro.WebApi.dll

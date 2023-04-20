@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Astro.WebApi", "src\Astro.WebApi\Astro.WebApi.csproj", "{E618EBF3-B50A-4409-AA89-835226A7BBDA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Astro.Database", "src\Astro.Database\Astro.Database.csproj", "{04703E8F-1DB0-45C6-9756-CC15CAD31380}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Astro.Domain", "src\Astro.Domain\Astro.Domain.csproj", "{D688FED7-1D4F-40FF-A36B-9ACFE4C99E91}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Astro.Application", "src\Astro.Application\Astro.Application.csproj", "{119813DE-36B1-436E-9A46-213C4670D76B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Astro.Infrasructure", "src\Astro.Infrasructure\Astro.Infrasructure.csproj", "{09C74110-4626-4F92-806D-DC175038C4BB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Astro.Contracts", "src\Astro.Contracts\Astro.Contracts.csproj", "{0FEE9649-D0AF-4C0D-8F5B-537EA17A364C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E618EBF3-B50A-4409-AA89-835226A7BBDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E618EBF3-B50A-4409-AA89-835226A7BBDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E618EBF3-B50A-4409-AA89-835226A7BBDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E618EBF3-B50A-4409-AA89-835226A7BBDA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04703E8F-1DB0-45C6-9756-CC15CAD31380}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04703E8F-1DB0-45C6-9756-CC15CAD31380}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04703E8F-1DB0-45C6-9756-CC15CAD31380}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04703E8F-1DB0-45C6-9756-CC15CAD31380}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D688FED7-1D4F-40FF-A36B-9ACFE4C99E91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D688FED7-1D4F-40FF-A36B-9ACFE4C99E91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D688FED7-1D4F-40FF-A36B-9ACFE4C99E91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D688FED7-1D4F-40FF-A36B-9ACFE4C99E91}.Release|Any CPU.Build.0 = Release|Any CPU
+		{119813DE-36B1-436E-9A46-213C4670D76B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{119813DE-36B1-436E-9A46-213C4670D76B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{119813DE-36B1-436E-9A46-213C4670D76B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{119813DE-36B1-436E-9A46-213C4670D76B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09C74110-4626-4F92-806D-DC175038C4BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09C74110-4626-4F92-806D-DC175038C4BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09C74110-4626-4F92-806D-DC175038C4BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09C74110-4626-4F92-806D-DC175038C4BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0FEE9649-D0AF-4C0D-8F5B-537EA17A364C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FEE9649-D0AF-4C0D-8F5B-537EA17A364C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FEE9649-D0AF-4C0D-8F5B-537EA17A364C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FEE9649-D0AF-4C0D-8F5B-537EA17A364C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {97E43104-7D0C-405B-AA5E-CADD14429BC5}
+	EndGlobalSection
+EndGlobal

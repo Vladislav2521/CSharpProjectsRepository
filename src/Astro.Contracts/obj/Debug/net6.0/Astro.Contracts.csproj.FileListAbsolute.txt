@@ -1,0 +1,48 @@
+P:\Projects\Astro\src\Astro.Contracts\bin\Debug\net6.0\Astro.Contracts.deps.json
+P:\Projects\Astro\src\Astro.Contracts\bin\Debug\net6.0\Astro.Contracts.dll
+P:\Projects\Astro\src\Astro.Contracts\bin\Debug\net6.0\Astro.Contracts.pdb
+P:\Projects\Astro\src\Astro.Contracts\obj\Debug\net6.0\Astro.Contracts.csproj.AssemblyReference.cache
+P:\Projects\Astro\src\Astro.Contracts\obj\Debug\net6.0\Astro.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+P:\Projects\Astro\src\Astro.Contracts\obj\Debug\net6.0\Astro.Contracts.AssemblyInfoInputs.cache
+P:\Projects\Astro\src\Astro.Contracts\obj\Debug\net6.0\Astro.Contracts.AssemblyInfo.cs
+P:\Projects\Astro\src\Astro.Contracts\obj\Debug\net6.0\Astro.Contracts.csproj.CoreCompileInputs.cache
+P:\Projects\Astro\src\Astro.Contracts\obj\Debug\net6.0\Astro.Contracts.dll
+P:\Projects\Astro\src\Astro.Contracts\obj\Debug\net6.0\refint\Astro.Contracts.dll
+P:\Projects\Astro\src\Astro.Contracts\obj\Debug\net6.0\Astro.Contracts.pdb
+P:\Projects\Astro\src\Astro.Contracts\obj\Debug\net6.0\ref\Astro.Contracts.dll
+D:\Programming Projects\CSharp projects\Astro — копия\src\Astro.Contracts\bin\Debug\net6.0\Astro.Contracts.deps.json
+D:\Programming Projects\CSharp projects\Astro — копия\src\Astro.Contracts\bin\Debug\net6.0\Astro.Contracts.dll
+D:\Programming Projects\CSharp projects\Astro — копия\src\Astro.Contracts\bin\Debug\net6.0\Astro.Contracts.pdb
+D:\Programming Projects\CSharp projects\Astro — копия\src\Astro.Contracts\obj\Debug\net6.0\Astro.Contracts.csproj.AssemblyReference.cache
+D:\Programming Projects\CSharp projects\Astro — копия\src\Astro.Contracts\obj\Debug\net6.0\Astro.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming Projects\CSharp projects\Astro — копия\src\Astro.Contracts\obj\Debug\net6.0\Astro.Contracts.AssemblyInfoInputs.cache
+D:\Programming Projects\CSharp projects\Astro — копия\src\Astro.Contracts\obj\Debug\net6.0\Astro.Contracts.AssemblyInfo.cs
+D:\Programming Projects\CSharp projects\Astro — копия\src\Astro.Contracts\obj\Debug\net6.0\Astro.Contracts.csproj.CoreCompileInputs.cache
+D:\Programming Projects\CSharp projects\Astro — копия\src\Astro.Contracts\obj\Debug\net6.0\Astro.Contracts.dll
+D:\Programming Projects\CSharp projects\Astro — копия\src\Astro.Contracts\obj\Debug\net6.0\refint\Astro.Contracts.dll
+D:\Programming Projects\CSharp projects\Astro — копия\src\Astro.Contracts\obj\Debug\net6.0\Astro.Contracts.pdb
+D:\Programming Projects\CSharp projects\Astro — копия\src\Astro.Contracts\obj\Debug\net6.0\ref\Astro.Contracts.dll
+E:\Programming Projects\CSharp projects\Astro — копия\src\Astro.Contracts\bin\Debug\net6.0\Astro.Contracts.deps.json
+E:\Programming Projects\CSharp projects\Astro — копия\src\Astro.Contracts\bin\Debug\net6.0\Astro.Contracts.dll
+E:\Programming Projects\CSharp projects\Astro — копия\src\Astro.Contracts\bin\Debug\net6.0\Astro.Contracts.pdb
+E:\Programming Projects\CSharp projects\Astro — копия\src\Astro.Contracts\obj\Debug\net6.0\Astro.Contracts.csproj.AssemblyReference.cache
+E:\Programming Projects\CSharp projects\Astro — копия\src\Astro.Contracts\obj\Debug\net6.0\Astro.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming Projects\CSharp projects\Astro — копия\src\Astro.Contracts\obj\Debug\net6.0\Astro.Contracts.AssemblyInfoInputs.cache
+E:\Programming Projects\CSharp projects\Astro — копия\src\Astro.Contracts\obj\Debug\net6.0\Astro.Contracts.AssemblyInfo.cs
+E:\Programming Projects\CSharp projects\Astro — копия\src\Astro.Contracts\obj\Debug\net6.0\Astro.Contracts.csproj.CoreCompileInputs.cache
+E:\Programming Projects\CSharp projects\Astro — копия\src\Astro.Contracts\obj\Debug\net6.0\Astro.Contracts.dll
+E:\Programming Projects\CSharp projects\Astro — копия\src\Astro.Contracts\obj\Debug\net6.0\refint\Astro.Contracts.dll
+E:\Programming Projects\CSharp projects\Astro — копия\src\Astro.Contracts\obj\Debug\net6.0\Astro.Contracts.pdb
+E:\Programming Projects\CSharp projects\Astro — копия\src\Astro.Contracts\obj\Debug\net6.0\ref\Astro.Contracts.dll
+E:\Programming Projects\CSharp projects repos\Astro — копия\src\Astro.Contracts\bin\Debug\net6.0\Astro.Contracts.deps.json
+E:\Programming Projects\CSharp projects repos\Astro — копия\src\Astro.Contracts\bin\Debug\net6.0\Astro.Contracts.dll
+E:\Programming Projects\CSharp projects repos\Astro — копия\src\Astro.Contracts\bin\Debug\net6.0\Astro.Contracts.pdb
+E:\Programming Projects\CSharp projects repos\Astro — копия\src\Astro.Contracts\obj\Debug\net6.0\Astro.Contracts.csproj.AssemblyReference.cache
+E:\Programming Projects\CSharp projects repos\Astro — копия\src\Astro.Contracts\obj\Debug\net6.0\Astro.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming Projects\CSharp projects repos\Astro — копия\src\Astro.Contracts\obj\Debug\net6.0\Astro.Contracts.AssemblyInfoInputs.cache
+E:\Programming Projects\CSharp projects repos\Astro — копия\src\Astro.Contracts\obj\Debug\net6.0\Astro.Contracts.AssemblyInfo.cs
+E:\Programming Projects\CSharp projects repos\Astro — копия\src\Astro.Contracts\obj\Debug\net6.0\Astro.Contracts.csproj.CoreCompileInputs.cache
+E:\Programming Projects\CSharp projects repos\Astro — копия\src\Astro.Contracts\obj\Debug\net6.0\Astro.Contracts.dll
+E:\Programming Projects\CSharp projects repos\Astro — копия\src\Astro.Contracts\obj\Debug\net6.0\refint\Astro.Contracts.dll
+E:\Programming Projects\CSharp projects repos\Astro — копия\src\Astro.Contracts\obj\Debug\net6.0\Astro.Contracts.pdb
+E:\Programming Projects\CSharp projects repos\Astro — копия\src\Astro.Contracts\obj\Debug\net6.0\ref\Astro.Contracts.dll

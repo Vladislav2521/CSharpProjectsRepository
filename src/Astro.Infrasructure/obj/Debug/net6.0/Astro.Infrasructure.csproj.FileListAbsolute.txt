@@ -1,0 +1,60 @@
+P:\Projects\Astro\src\Astro.Infrasructure\bin\Debug\net6.0\Astro.Infrasructure.deps.json
+P:\Projects\Astro\src\Astro.Infrasructure\bin\Debug\net6.0\Astro.Infrasructure.dll
+P:\Projects\Astro\src\Astro.Infrasructure\bin\Debug\net6.0\Astro.Infrasructure.pdb
+P:\Projects\Astro\src\Astro.Infrasructure\obj\Debug\net6.0\Astro.Infrasructure.csproj.AssemblyReference.cache
+P:\Projects\Astro\src\Astro.Infrasructure\obj\Debug\net6.0\Astro.Infrasructure.GeneratedMSBuildEditorConfig.editorconfig
+P:\Projects\Astro\src\Astro.Infrasructure\obj\Debug\net6.0\Astro.Infrasructure.AssemblyInfoInputs.cache
+P:\Projects\Astro\src\Astro.Infrasructure\obj\Debug\net6.0\Astro.Infrasructure.AssemblyInfo.cs
+P:\Projects\Astro\src\Astro.Infrasructure\obj\Debug\net6.0\Astro.Infrasructure.csproj.CoreCompileInputs.cache
+P:\Projects\Astro\src\Astro.Infrasructure\obj\Debug\net6.0\Astro.Infrasructure.dll
+P:\Projects\Astro\src\Astro.Infrasructure\obj\Debug\net6.0\refint\Astro.Infrasructure.dll
+P:\Projects\Astro\src\Astro.Infrasructure\obj\Debug\net6.0\Astro.Infrasructure.pdb
+P:\Projects\Astro\src\Astro.Infrasructure\obj\Debug\net6.0\ref\Astro.Infrasructure.dll
+P:\Projects\Astro — копия\src\Astro.Infrasructure\bin\Debug\net6.0\Astro.Infrasructure.deps.json
+P:\Projects\Astro — копия\src\Astro.Infrasructure\bin\Debug\net6.0\Astro.Infrasructure.dll
+P:\Projects\Astro — копия\src\Astro.Infrasructure\bin\Debug\net6.0\Astro.Infrasructure.pdb
+P:\Projects\Astro — копия\src\Astro.Infrasructure\obj\Debug\net6.0\Astro.Infrasructure.csproj.AssemblyReference.cache
+P:\Projects\Astro — копия\src\Astro.Infrasructure\obj\Debug\net6.0\Astro.Infrasructure.GeneratedMSBuildEditorConfig.editorconfig
+P:\Projects\Astro — копия\src\Astro.Infrasructure\obj\Debug\net6.0\Astro.Infrasructure.AssemblyInfoInputs.cache
+P:\Projects\Astro — копия\src\Astro.Infrasructure\obj\Debug\net6.0\Astro.Infrasructure.AssemblyInfo.cs
+P:\Projects\Astro — копия\src\Astro.Infrasructure\obj\Debug\net6.0\Astro.Infrasructure.csproj.CoreCompileInputs.cache
+P:\Projects\Astro — копия\src\Astro.Infrasructure\obj\Debug\net6.0\Astro.Infrasructure.dll
+P:\Projects\Astro — копия\src\Astro.Infrasructure\obj\Debug\net6.0\refint\Astro.Infrasructure.dll
+P:\Projects\Astro — копия\src\Astro.Infrasructure\obj\Debug\net6.0\Astro.Infrasructure.pdb
+P:\Projects\Astro — копия\src\Astro.Infrasructure\obj\Debug\net6.0\ref\Astro.Infrasructure.dll
+D:\Programming Projects\CSharp projects\Astro — копия\src\Astro.Infrasructure\bin\Debug\net6.0\Astro.Infrasructure.deps.json
+D:\Programming Projects\CSharp projects\Astro — копия\src\Astro.Infrasructure\bin\Debug\net6.0\Astro.Infrasructure.dll
+D:\Programming Projects\CSharp projects\Astro — копия\src\Astro.Infrasructure\bin\Debug\net6.0\Astro.Infrasructure.pdb
+D:\Programming Projects\CSharp projects\Astro — копия\src\Astro.Infrasructure\obj\Debug\net6.0\Astro.Infrasructure.csproj.AssemblyReference.cache
+D:\Programming Projects\CSharp projects\Astro — копия\src\Astro.Infrasructure\obj\Debug\net6.0\Astro.Infrasructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming Projects\CSharp projects\Astro — копия\src\Astro.Infrasructure\obj\Debug\net6.0\Astro.Infrasructure.AssemblyInfoInputs.cache
+D:\Programming Projects\CSharp projects\Astro — копия\src\Astro.Infrasructure\obj\Debug\net6.0\Astro.Infrasructure.AssemblyInfo.cs
+D:\Programming Projects\CSharp projects\Astro — копия\src\Astro.Infrasructure\obj\Debug\net6.0\Astro.Infrasructure.csproj.CoreCompileInputs.cache
+D:\Programming Projects\CSharp projects\Astro — копия\src\Astro.Infrasructure\obj\Debug\net6.0\Astro.Infrasructure.dll
+D:\Programming Projects\CSharp projects\Astro — копия\src\Astro.Infrasructure\obj\Debug\net6.0\refint\Astro.Infrasructure.dll
+D:\Programming Projects\CSharp projects\Astro — копия\src\Astro.Infrasructure\obj\Debug\net6.0\Astro.Infrasructure.pdb
+D:\Programming Projects\CSharp projects\Astro — копия\src\Astro.Infrasructure\obj\Debug\net6.0\ref\Astro.Infrasructure.dll
+E:\Programming Projects\CSharp projects\Astro — копия\src\Astro.Infrasructure\bin\Debug\net6.0\Astro.Infrasructure.deps.json
+E:\Programming Projects\CSharp projects\Astro — копия\src\Astro.Infrasructure\bin\Debug\net6.0\Astro.Infrasructure.dll
+E:\Programming Projects\CSharp projects\Astro — копия\src\Astro.Infrasructure\bin\Debug\net6.0\Astro.Infrasructure.pdb
+E:\Programming Projects\CSharp projects\Astro — копия\src\Astro.Infrasructure\obj\Debug\net6.0\Astro.Infrasructure.csproj.AssemblyReference.cache
+E:\Programming Projects\CSharp projects\Astro — копия\src\Astro.Infrasructure\obj\Debug\net6.0\Astro.Infrasructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming Projects\CSharp projects\Astro — копия\src\Astro.Infrasructure\obj\Debug\net6.0\Astro.Infrasructure.AssemblyInfoInputs.cache
+E:\Programming Projects\CSharp projects\Astro — копия\src\Astro.Infrasructure\obj\Debug\net6.0\Astro.Infrasructure.AssemblyInfo.cs
+E:\Programming Projects\CSharp projects\Astro — копия\src\Astro.Infrasructure\obj\Debug\net6.0\Astro.Infrasructure.csproj.CoreCompileInputs.cache
+E:\Programming Projects\CSharp projects\Astro — копия\src\Astro.Infrasructure\obj\Debug\net6.0\Astro.Infrasructure.dll
+E:\Programming Projects\CSharp projects\Astro — копия\src\Astro.Infrasructure\obj\Debug\net6.0\refint\Astro.Infrasructure.dll
+E:\Programming Projects\CSharp projects\Astro — копия\src\Astro.Infrasructure\obj\Debug\net6.0\Astro.Infrasructure.pdb
+E:\Programming Projects\CSharp projects\Astro — копия\src\Astro.Infrasructure\obj\Debug\net6.0\ref\Astro.Infrasructure.dll
+E:\Programming Projects\CSharp projects repos\Astro — копия\src\Astro.Infrasructure\bin\Debug\net6.0\Astro.Infrasructure.deps.json
+E:\Programming Projects\CSharp projects repos\Astro — копия\src\Astro.Infrasructure\bin\Debug\net6.0\Astro.Infrasructure.dll
+E:\Programming Projects\CSharp projects repos\Astro — копия\src\Astro.Infrasructure\bin\Debug\net6.0\Astro.Infrasructure.pdb
+E:\Programming Projects\CSharp projects repos\Astro — копия\src\Astro.Infrasructure\obj\Debug\net6.0\Astro.Infrasructure.csproj.AssemblyReference.cache
+E:\Programming Projects\CSharp projects repos\Astro — копия\src\Astro.Infrasructure\obj\Debug\net6.0\Astro.Infrasructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming Projects\CSharp projects repos\Astro — копия\src\Astro.Infrasructure\obj\Debug\net6.0\Astro.Infrasructure.AssemblyInfoInputs.cache
+E:\Programming Projects\CSharp projects repos\Astro — копия\src\Astro.Infrasructure\obj\Debug\net6.0\Astro.Infrasructure.AssemblyInfo.cs
+E:\Programming Projects\CSharp projects repos\Astro — копия\src\Astro.Infrasructure\obj\Debug\net6.0\Astro.Infrasructure.csproj.CoreCompileInputs.cache
+E:\Programming Projects\CSharp projects repos\Astro — копия\src\Astro.Infrasructure\obj\Debug\net6.0\Astro.Infrasructure.dll
+E:\Programming Projects\CSharp projects repos\Astro — копия\src\Astro.Infrasructure\obj\Debug\net6.0\refint\Astro.Infrasructure.dll
+E:\Programming Projects\CSharp projects repos\Astro — копия\src\Astro.Infrasructure\obj\Debug\net6.0\Astro.Infrasructure.pdb
+E:\Programming Projects\CSharp projects repos\Astro — копия\src\Astro.Infrasructure\obj\Debug\net6.0\ref\Astro.Infrasructure.dll
