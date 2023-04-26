@@ -15,6 +15,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Astro.Infrasructure", "src\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Astro.Contracts", "src\Astro.Contracts\Astro.Contracts.csproj", "{0FEE9649-D0AF-4C0D-8F5B-537EA17A364C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{F7DDB7FB-5970-4AC9-96A0-39359F36027F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{0FEE9649-D0AF-4C0D-8F5B-537EA17A364C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0FEE9649-D0AF-4C0D-8F5B-537EA17A364C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0FEE9649-D0AF-4C0D-8F5B-537EA17A364C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7DDB7FB-5970-4AC9-96A0-39359F36027F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7DDB7FB-5970-4AC9-96A0-39359F36027F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7DDB7FB-5970-4AC9-96A0-39359F36027F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7DDB7FB-5970-4AC9-96A0-39359F36027F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
