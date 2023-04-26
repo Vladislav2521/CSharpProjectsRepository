@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "42xSLzjvoYh2Rhn5VQaIPdE4n9sMoX+Oa7RMf52LtqyengIi73ylpH+b789h6AFbvX/x2I8/URc1iAB+8dozKg==",
+  "dgSpecHash": "qyRi0RHykqiAMF0MzUam6hTgXYfpGpt1qoz3GYRkKThirabfvvO0kP0yybYye7X2BFnphCpPEzUn7HUlXHfnFA==",
   "success": true,
-  "projectFilePath": "E:\\ProgrammingProjects\\AstroLibrary\\src\\Astro.Infrasructure\\Astro.Infrasructure.csproj",
+  "projectFilePath": "E:\\ProgrammingProjects\\CSharpProjectsRepository\\src\\Astro.Infrasructure\\Astro.Infrasructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Пользователь\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
   ],

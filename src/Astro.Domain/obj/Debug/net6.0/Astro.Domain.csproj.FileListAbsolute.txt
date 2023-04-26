@@ -61,3 +61,15 @@ E:\Programming Projects\CSharp projects repos\Astro — копия\src\Astro.Dom
 E:\Programming Projects\CSharp projects repos\Astro — копия\src\Astro.Domain\obj\Debug\net6.0\refint\Astro.Domain.dll
 E:\Programming Projects\CSharp projects repos\Astro — копия\src\Astro.Domain\obj\Debug\net6.0\Astro.Domain.pdb
 E:\Programming Projects\CSharp projects repos\Astro — копия\src\Astro.Domain\obj\Debug\net6.0\ref\Astro.Domain.dll
+E:\ProgrammingProjects\CSharpProjectsRepository\src\Astro.Domain\bin\Debug\net6.0\Astro.Domain.deps.json
+E:\ProgrammingProjects\CSharpProjectsRepository\src\Astro.Domain\bin\Debug\net6.0\Astro.Domain.dll
+E:\ProgrammingProjects\CSharpProjectsRepository\src\Astro.Domain\bin\Debug\net6.0\Astro.Domain.pdb
+E:\ProgrammingProjects\CSharpProjectsRepository\src\Astro.Domain\obj\Debug\net6.0\Astro.Domain.csproj.AssemblyReference.cache
+E:\ProgrammingProjects\CSharpProjectsRepository\src\Astro.Domain\obj\Debug\net6.0\Astro.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\ProgrammingProjects\CSharpProjectsRepository\src\Astro.Domain\obj\Debug\net6.0\Astro.Domain.AssemblyInfoInputs.cache
+E:\ProgrammingProjects\CSharpProjectsRepository\src\Astro.Domain\obj\Debug\net6.0\Astro.Domain.AssemblyInfo.cs
+E:\ProgrammingProjects\CSharpProjectsRepository\src\Astro.Domain\obj\Debug\net6.0\Astro.Domain.csproj.CoreCompileInputs.cache
+E:\ProgrammingProjects\CSharpProjectsRepository\src\Astro.Domain\obj\Debug\net6.0\Astro.Domain.dll
+E:\ProgrammingProjects\CSharpProjectsRepository\src\Astro.Domain\obj\Debug\net6.0\refint\Astro.Domain.dll
+E:\ProgrammingProjects\CSharpProjectsRepository\src\Astro.Domain\obj\Debug\net6.0\Astro.Domain.pdb
+E:\ProgrammingProjects\CSharpProjectsRepository\src\Astro.Domain\obj\Debug\net6.0\ref\Astro.Domain.dll

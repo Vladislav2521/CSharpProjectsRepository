@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jGtzxxWyqT8Yhc7Gzc2gtWahPc7wxgdAZLIRQvjDh2JG/HMEM+I7tHbJJ5nauGYrzR8uLEIoda2uotZDBHE5cg==",
+  "dgSpecHash": "mFCur3J4Q+BaB5pCM67wnxe+94hmli7POA+lQUUynTasIclXqi0JzZ63+rEuZ4smvtH82vmM55jc64JkOkL3cA==",
   "success": true,
-  "projectFilePath": "E:\\ProgrammingProjects\\AstroLibrary\\src\\Astro.Contracts\\Astro.Contracts.csproj",
+  "projectFilePath": "E:\\ProgrammingProjects\\CSharpProjectsRepository\\src\\Astro.Contracts\\Astro.Contracts.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

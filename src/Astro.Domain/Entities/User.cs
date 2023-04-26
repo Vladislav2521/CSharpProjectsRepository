@@ -17,5 +17,7 @@ namespace Astro.Domain.Entities
 
         [MaxLength(100)] // Пример валидации
         public string Email { get; set; }
+
+        public List<Review> Reviews { get; set; } // навигационное свойство
     }
 }

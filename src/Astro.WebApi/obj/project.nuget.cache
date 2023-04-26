@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tGTHW8QvdXwBwUPCgME7S8iKqljHO4dRXSPsduTs0L7oG52hoeHezYLEbL1LTtAhuyyc2vtONXl8b66BEQvYZQ==",
+  "dgSpecHash": "fAs5ncTNyxiAE3H+6blK5Wh0/XVtoPc93XH73Gq6/Gkb+MPHLSgOPEND5A19wWoVnp8sJ6/1uPD9/X4mtqZAYQ==",
   "success": true,
-  "projectFilePath": "E:\\ProgrammingProjects\\AstroLibrary\\src\\Astro.WebApi\\Astro.WebApi.csproj",
+  "projectFilePath": "E:\\ProgrammingProjects\\CSharpProjectsRepository\\src\\Astro.WebApi\\Astro.WebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Пользователь\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
     "C:\\Users\\Пользователь\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",

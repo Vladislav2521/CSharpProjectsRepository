@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zaimUhH0uwqGatZrpuQ3vU8lCk7tGyujDghIPFvyCL0T6q9lkjaE3uRXZtA6yY1ddKJ0sQIcPugEGMwKyWHPLA==",
+  "dgSpecHash": "9b88LNdzM/ySwgHijY9eeJ95LO1S585ouBcxfHbfTjSdhuaBWjv1G+Wxqr1Z4LbgfyQHZW6kivHocHMZDVu6vA==",
   "success": true,
-  "projectFilePath": "E:\\ProgrammingProjects\\AstroLibrary\\src\\Astro.Domain\\Astro.Domain.csproj",
+  "projectFilePath": "E:\\ProgrammingProjects\\CSharpProjectsRepository\\src\\Astro.Domain\\Astro.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Пользователь\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\6.0.10\\microsoft.aspnetcore.cryptography.internal.6.0.10.nupkg.sha512",
     "C:\\Users\\Пользователь\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\6.0.10\\microsoft.aspnetcore.cryptography.keyderivation.6.0.10.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "C+FbaKubF5kUs8/cALyw4TrTKpslPCZZS5SLpUIyrzFRLhZ+Wx1WfDRea9jnDmgr1WBIXzAG6ZTGgX1DYtK48g==",
+  "dgSpecHash": "m+iXiT4k65x0cwlJA1k5rlMgzY/nXMf0w9GCmw6Eo7LhhJLEztcsy7VNCebigQZqu8fsf7uxCbOy+x9xVE9eMg==",
   "success": true,
-  "projectFilePath": "E:\\ProgrammingProjects\\AstroLibrary\\src\\Astro.Application\\Astro.Application.csproj",
+  "projectFilePath": "E:\\ProgrammingProjects\\CSharpProjectsRepository\\src\\Astro.Application\\Astro.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Пользователь\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
     "C:\\Users\\Пользователь\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\ProgrammingProjects\\AstroLibrary\\src\\Astro.Infrasructure\\Astro.Infrasructure.csproj": {}
+    "E:\\ProgrammingProjects\\CSharpProjectsRepository\\src\\Astro.Infrasructure\\Astro.Infrasructure.csproj": {}
   },
   "projects": {
-    "E:\\ProgrammingProjects\\AstroLibrary\\src\\Astro.Infrasructure\\Astro.Infrasructure.csproj": {
+    "E:\\ProgrammingProjects\\CSharpProjectsRepository\\src\\Astro.Infrasructure\\Astro.Infrasructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\ProgrammingProjects\\AstroLibrary\\src\\Astro.Infrasructure\\Astro.Infrasructure.csproj",
+        "projectUniqueName": "E:\\ProgrammingProjects\\CSharpProjectsRepository\\src\\Astro.Infrasructure\\Astro.Infrasructure.csproj",
         "projectName": "Astro.Infrasructure",
-        "projectPath": "E:\\ProgrammingProjects\\AstroLibrary\\src\\Astro.Infrasructure\\Astro.Infrasructure.csproj",
+        "projectPath": "E:\\ProgrammingProjects\\CSharpProjectsRepository\\src\\Astro.Infrasructure\\Astro.Infrasructure.csproj",
         "packagesPath": "C:\\Users\\Пользователь\\.nuget\\packages\\",
-        "outputPath": "E:\\ProgrammingProjects\\AstroLibrary\\src\\Astro.Infrasructure\\obj\\",
+        "outputPath": "E:\\ProgrammingProjects\\CSharpProjectsRepository\\src\\Astro.Infrasructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Пользователь\\AppData\\Roaming\\NuGet\\NuGet.Config",

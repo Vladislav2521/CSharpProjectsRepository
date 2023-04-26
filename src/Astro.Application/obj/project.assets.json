@@ -2850,11 +2850,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\ProgrammingProjects\\AstroLibrary\\src\\Astro.Application\\Astro.Application.csproj",
+      "projectUniqueName": "E:\\ProgrammingProjects\\CSharpProjectsRepository\\src\\Astro.Application\\Astro.Application.csproj",
       "projectName": "Astro.Application",
-      "projectPath": "E:\\ProgrammingProjects\\AstroLibrary\\src\\Astro.Application\\Astro.Application.csproj",
+      "projectPath": "E:\\ProgrammingProjects\\CSharpProjectsRepository\\src\\Astro.Application\\Astro.Application.csproj",
       "packagesPath": "C:\\Users\\Пользователь\\.nuget\\packages\\",
-      "outputPath": "E:\\ProgrammingProjects\\AstroLibrary\\src\\Astro.Application\\obj\\",
+      "outputPath": "E:\\ProgrammingProjects\\CSharpProjectsRepository\\src\\Astro.Application\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Пользователь\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2871,14 +2871,14 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "E:\\ProgrammingProjects\\AstroLibrary\\src\\Astro.Database\\Astro.Database.csproj": {
-              "projectPath": "E:\\ProgrammingProjects\\AstroLibrary\\src\\Astro.Database\\Astro.Database.csproj"
+            "E:\\ProgrammingProjects\\CSharpProjectsRepository\\src\\Astro.Database\\Astro.Database.csproj": {
+              "projectPath": "E:\\ProgrammingProjects\\CSharpProjectsRepository\\src\\Astro.Database\\Astro.Database.csproj"
             },
-            "E:\\ProgrammingProjects\\AstroLibrary\\src\\Astro.Domain\\Astro.Domain.csproj": {
-              "projectPath": "E:\\ProgrammingProjects\\AstroLibrary\\src\\Astro.Domain\\Astro.Domain.csproj"
+            "E:\\ProgrammingProjects\\CSharpProjectsRepository\\src\\Astro.Domain\\Astro.Domain.csproj": {
+              "projectPath": "E:\\ProgrammingProjects\\CSharpProjectsRepository\\src\\Astro.Domain\\Astro.Domain.csproj"
             },
-            "E:\\ProgrammingProjects\\AstroLibrary\\src\\Astro.Infrasructure\\Astro.Infrasructure.csproj": {
-              "projectPath": "E:\\ProgrammingProjects\\AstroLibrary\\src\\Astro.Infrasructure\\Astro.Infrasructure.csproj"
+            "E:\\ProgrammingProjects\\CSharpProjectsRepository\\src\\Astro.Infrasructure\\Astro.Infrasructure.csproj": {
+              "projectPath": "E:\\ProgrammingProjects\\CSharpProjectsRepository\\src\\Astro.Infrasructure\\Astro.Infrasructure.csproj"
             }
           }
         }

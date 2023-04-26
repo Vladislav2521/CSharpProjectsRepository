@@ -6,7 +6,7 @@ namespace Astro.WebApi.Models
     {
         public int Id { get; set; }
         public string Title { get; set; }
-        public Author Author { get; set; }
+        public string Author { get; set; } // Entities не могут быть внутри модели
         public string Genre { get; set; }
         public double Price { get; set; }
     }

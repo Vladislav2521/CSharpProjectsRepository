@@ -5,6 +5,6 @@ namespace Astro.WebApi.Models
     public class BookShortModel
     { 
         public string Title { get; set; }
-        public Author Author { get; set; }
+        public string Author { get; set; } 
     }
 }

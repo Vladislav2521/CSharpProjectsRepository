@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\ProgrammingProjects\\AstroLibrary\\src\\Astro.WebApi\\Astro.WebApi.csproj": {}
+    "E:\\ProgrammingProjects\\CSharpProjectsRepository\\src\\Astro.WebApi\\Astro.WebApi.csproj": {}
   },
   "projects": {
-    "E:\\ProgrammingProjects\\AstroLibrary\\src\\Astro.Application\\Astro.Application.csproj": {
+    "E:\\ProgrammingProjects\\CSharpProjectsRepository\\src\\Astro.Application\\Astro.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\ProgrammingProjects\\AstroLibrary\\src\\Astro.Application\\Astro.Application.csproj",
+        "projectUniqueName": "E:\\ProgrammingProjects\\CSharpProjectsRepository\\src\\Astro.Application\\Astro.Application.csproj",
         "projectName": "Astro.Application",
-        "projectPath": "E:\\ProgrammingProjects\\AstroLibrary\\src\\Astro.Application\\Astro.Application.csproj",
+        "projectPath": "E:\\ProgrammingProjects\\CSharpProjectsRepository\\src\\Astro.Application\\Astro.Application.csproj",
         "packagesPath": "C:\\Users\\Пользователь\\.nuget\\packages\\",
-        "outputPath": "E:\\ProgrammingProjects\\AstroLibrary\\src\\Astro.Application\\obj\\",
+        "outputPath": "E:\\ProgrammingProjects\\CSharpProjectsRepository\\src\\Astro.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Пользователь\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,14 +28,14 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "E:\\ProgrammingProjects\\AstroLibrary\\src\\Astro.Database\\Astro.Database.csproj": {
-                "projectPath": "E:\\ProgrammingProjects\\AstroLibrary\\src\\Astro.Database\\Astro.Database.csproj"
+              "E:\\ProgrammingProjects\\CSharpProjectsRepository\\src\\Astro.Database\\Astro.Database.csproj": {
+                "projectPath": "E:\\ProgrammingProjects\\CSharpProjectsRepository\\src\\Astro.Database\\Astro.Database.csproj"
               },
-              "E:\\ProgrammingProjects\\AstroLibrary\\src\\Astro.Domain\\Astro.Domain.csproj": {
-                "projectPath": "E:\\ProgrammingProjects\\AstroLibrary\\src\\Astro.Domain\\Astro.Domain.csproj"
+              "E:\\ProgrammingProjects\\CSharpProjectsRepository\\src\\Astro.Domain\\Astro.Domain.csproj": {
+                "projectPath": "E:\\ProgrammingProjects\\CSharpProjectsRepository\\src\\Astro.Domain\\Astro.Domain.csproj"
               },
-              "E:\\ProgrammingProjects\\AstroLibrary\\src\\Astro.Infrasructure\\Astro.Infrasructure.csproj": {
-                "projectPath": "E:\\ProgrammingProjects\\AstroLibrary\\src\\Astro.Infrasructure\\Astro.Infrasructure.csproj"
+              "E:\\ProgrammingProjects\\CSharpProjectsRepository\\src\\Astro.Infrasructure\\Astro.Infrasructure.csproj": {
+                "projectPath": "E:\\ProgrammingProjects\\CSharpProjectsRepository\\src\\Astro.Infrasructure\\Astro.Infrasructure.csproj"
               }
             }
           }
@@ -111,14 +111,14 @@
         }
       }
     },
-    "E:\\ProgrammingProjects\\AstroLibrary\\src\\Astro.Contracts\\Astro.Contracts.csproj": {
+    "E:\\ProgrammingProjects\\CSharpProjectsRepository\\src\\Astro.Contracts\\Astro.Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\ProgrammingProjects\\AstroLibrary\\src\\Astro.Contracts\\Astro.Contracts.csproj",
+        "projectUniqueName": "E:\\ProgrammingProjects\\CSharpProjectsRepository\\src\\Astro.Contracts\\Astro.Contracts.csproj",
         "projectName": "Astro.Contracts",
-        "projectPath": "E:\\ProgrammingProjects\\AstroLibrary\\src\\Astro.Contracts\\Astro.Contracts.csproj",
+        "projectPath": "E:\\ProgrammingProjects\\CSharpProjectsRepository\\src\\Astro.Contracts\\Astro.Contracts.csproj",
         "packagesPath": "C:\\Users\\Пользователь\\.nuget\\packages\\",
-        "outputPath": "E:\\ProgrammingProjects\\AstroLibrary\\src\\Astro.Contracts\\obj\\",
+        "outputPath": "E:\\ProgrammingProjects\\CSharpProjectsRepository\\src\\Astro.Contracts\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Пользователь\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -166,14 +166,14 @@
         }
       }
     },
-    "E:\\ProgrammingProjects\\AstroLibrary\\src\\Astro.Database\\Astro.Database.csproj": {
+    "E:\\ProgrammingProjects\\CSharpProjectsRepository\\src\\Astro.Database\\Astro.Database.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\ProgrammingProjects\\AstroLibrary\\src\\Astro.Database\\Astro.Database.csproj",
+        "projectUniqueName": "E:\\ProgrammingProjects\\CSharpProjectsRepository\\src\\Astro.Database\\Astro.Database.csproj",
         "projectName": "Astro.Database",
-        "projectPath": "E:\\ProgrammingProjects\\AstroLibrary\\src\\Astro.Database\\Astro.Database.csproj",
+        "projectPath": "E:\\ProgrammingProjects\\CSharpProjectsRepository\\src\\Astro.Database\\Astro.Database.csproj",
         "packagesPath": "C:\\Users\\Пользователь\\.nuget\\packages\\",
-        "outputPath": "E:\\ProgrammingProjects\\AstroLibrary\\src\\Astro.Database\\obj\\",
+        "outputPath": "E:\\ProgrammingProjects\\CSharpProjectsRepository\\src\\Astro.Database\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Пользователь\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -190,11 +190,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "E:\\ProgrammingProjects\\AstroLibrary\\src\\Astro.Contracts\\Astro.Contracts.csproj": {
-                "projectPath": "E:\\ProgrammingProjects\\AstroLibrary\\src\\Astro.Contracts\\Astro.Contracts.csproj"
+              "E:\\ProgrammingProjects\\CSharpProjectsRepository\\src\\Astro.Contracts\\Astro.Contracts.csproj": {
+                "projectPath": "E:\\ProgrammingProjects\\CSharpProjectsRepository\\src\\Astro.Contracts\\Astro.Contracts.csproj"
               },
-              "E:\\ProgrammingProjects\\AstroLibrary\\src\\Astro.Domain\\Astro.Domain.csproj": {
-                "projectPath": "E:\\ProgrammingProjects\\AstroLibrary\\src\\Astro.Domain\\Astro.Domain.csproj"
+              "E:\\ProgrammingProjects\\CSharpProjectsRepository\\src\\Astro.Domain\\Astro.Domain.csproj": {
+                "projectPath": "E:\\ProgrammingProjects\\CSharpProjectsRepository\\src\\Astro.Domain\\Astro.Domain.csproj"
               }
             }
           }
@@ -256,14 +256,14 @@
         }
       }
     },
-    "E:\\ProgrammingProjects\\AstroLibrary\\src\\Astro.Domain\\Astro.Domain.csproj": {
+    "E:\\ProgrammingProjects\\CSharpProjectsRepository\\src\\Astro.Domain\\Astro.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\ProgrammingProjects\\AstroLibrary\\src\\Astro.Domain\\Astro.Domain.csproj",
+        "projectUniqueName": "E:\\ProgrammingProjects\\CSharpProjectsRepository\\src\\Astro.Domain\\Astro.Domain.csproj",
         "projectName": "Astro.Domain",
-        "projectPath": "E:\\ProgrammingProjects\\AstroLibrary\\src\\Astro.Domain\\Astro.Domain.csproj",
+        "projectPath": "E:\\ProgrammingProjects\\CSharpProjectsRepository\\src\\Astro.Domain\\Astro.Domain.csproj",
         "packagesPath": "C:\\Users\\Пользователь\\.nuget\\packages\\",
-        "outputPath": "E:\\ProgrammingProjects\\AstroLibrary\\src\\Astro.Domain\\obj\\",
+        "outputPath": "E:\\ProgrammingProjects\\CSharpProjectsRepository\\src\\Astro.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Пользователь\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -321,14 +321,14 @@
         }
       }
     },
-    "E:\\ProgrammingProjects\\AstroLibrary\\src\\Astro.Infrasructure\\Astro.Infrasructure.csproj": {
+    "E:\\ProgrammingProjects\\CSharpProjectsRepository\\src\\Astro.Infrasructure\\Astro.Infrasructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\ProgrammingProjects\\AstroLibrary\\src\\Astro.Infrasructure\\Astro.Infrasructure.csproj",
+        "projectUniqueName": "E:\\ProgrammingProjects\\CSharpProjectsRepository\\src\\Astro.Infrasructure\\Astro.Infrasructure.csproj",
         "projectName": "Astro.Infrasructure",
-        "projectPath": "E:\\ProgrammingProjects\\AstroLibrary\\src\\Astro.Infrasructure\\Astro.Infrasructure.csproj",
+        "projectPath": "E:\\ProgrammingProjects\\CSharpProjectsRepository\\src\\Astro.Infrasructure\\Astro.Infrasructure.csproj",
         "packagesPath": "C:\\Users\\Пользователь\\.nuget\\packages\\",
-        "outputPath": "E:\\ProgrammingProjects\\AstroLibrary\\src\\Astro.Infrasructure\\obj\\",
+        "outputPath": "E:\\ProgrammingProjects\\CSharpProjectsRepository\\src\\Astro.Infrasructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Пользователь\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -382,14 +382,14 @@
         }
       }
     },
-    "E:\\ProgrammingProjects\\AstroLibrary\\src\\Astro.WebApi\\Astro.WebApi.csproj": {
+    "E:\\ProgrammingProjects\\CSharpProjectsRepository\\src\\Astro.WebApi\\Astro.WebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\ProgrammingProjects\\AstroLibrary\\src\\Astro.WebApi\\Astro.WebApi.csproj",
+        "projectUniqueName": "E:\\ProgrammingProjects\\CSharpProjectsRepository\\src\\Astro.WebApi\\Astro.WebApi.csproj",
         "projectName": "Astro.WebApi",
-        "projectPath": "E:\\ProgrammingProjects\\AstroLibrary\\src\\Astro.WebApi\\Astro.WebApi.csproj",
+        "projectPath": "E:\\ProgrammingProjects\\CSharpProjectsRepository\\src\\Astro.WebApi\\Astro.WebApi.csproj",
         "packagesPath": "C:\\Users\\Пользователь\\.nuget\\packages\\",
-        "outputPath": "E:\\ProgrammingProjects\\AstroLibrary\\src\\Astro.WebApi\\obj\\",
+        "outputPath": "E:\\ProgrammingProjects\\CSharpProjectsRepository\\src\\Astro.WebApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Пользователь\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -406,11 +406,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "E:\\ProgrammingProjects\\AstroLibrary\\src\\Astro.Application\\Astro.Application.csproj": {
-                "projectPath": "E:\\ProgrammingProjects\\AstroLibrary\\src\\Astro.Application\\Astro.Application.csproj"
+              "E:\\ProgrammingProjects\\CSharpProjectsRepository\\src\\Astro.Application\\Astro.Application.csproj": {
+                "projectPath": "E:\\ProgrammingProjects\\CSharpProjectsRepository\\src\\Astro.Application\\Astro.Application.csproj"
               },
-              "E:\\ProgrammingProjects\\AstroLibrary\\src\\Astro.Database\\Astro.Database.csproj": {
-                "projectPath": "E:\\ProgrammingProjects\\AstroLibrary\\src\\Astro.Database\\Astro.Database.csproj"
+              "E:\\ProgrammingProjects\\CSharpProjectsRepository\\src\\Astro.Database\\Astro.Database.csproj": {
+                "projectPath": "E:\\ProgrammingProjects\\CSharpProjectsRepository\\src\\Astro.Database\\Astro.Database.csproj"
               }
             }
           }

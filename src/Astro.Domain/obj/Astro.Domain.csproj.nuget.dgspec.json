@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\ProgrammingProjects\\AstroLibrary\\src\\Astro.Domain\\Astro.Domain.csproj": {}
+    "E:\\ProgrammingProjects\\CSharpProjectsRepository\\src\\Astro.Domain\\Astro.Domain.csproj": {}
   },
   "projects": {
-    "E:\\ProgrammingProjects\\AstroLibrary\\src\\Astro.Domain\\Astro.Domain.csproj": {
+    "E:\\ProgrammingProjects\\CSharpProjectsRepository\\src\\Astro.Domain\\Astro.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\ProgrammingProjects\\AstroLibrary\\src\\Astro.Domain\\Astro.Domain.csproj",
+        "projectUniqueName": "E:\\ProgrammingProjects\\CSharpProjectsRepository\\src\\Astro.Domain\\Astro.Domain.csproj",
         "projectName": "Astro.Domain",
-        "projectPath": "E:\\ProgrammingProjects\\AstroLibrary\\src\\Astro.Domain\\Astro.Domain.csproj",
+        "projectPath": "E:\\ProgrammingProjects\\CSharpProjectsRepository\\src\\Astro.Domain\\Astro.Domain.csproj",
         "packagesPath": "C:\\Users\\Пользователь\\.nuget\\packages\\",
-        "outputPath": "E:\\ProgrammingProjects\\AstroLibrary\\src\\Astro.Domain\\obj\\",
+        "outputPath": "E:\\ProgrammingProjects\\CSharpProjectsRepository\\src\\Astro.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Пользователь\\AppData\\Roaming\\NuGet\\NuGet.Config",

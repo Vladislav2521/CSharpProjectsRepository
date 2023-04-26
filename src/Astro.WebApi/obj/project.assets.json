@@ -3468,11 +3468,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\ProgrammingProjects\\AstroLibrary\\src\\Astro.WebApi\\Astro.WebApi.csproj",
+      "projectUniqueName": "E:\\ProgrammingProjects\\CSharpProjectsRepository\\src\\Astro.WebApi\\Astro.WebApi.csproj",
       "projectName": "Astro.WebApi",
-      "projectPath": "E:\\ProgrammingProjects\\AstroLibrary\\src\\Astro.WebApi\\Astro.WebApi.csproj",
+      "projectPath": "E:\\ProgrammingProjects\\CSharpProjectsRepository\\src\\Astro.WebApi\\Astro.WebApi.csproj",
       "packagesPath": "C:\\Users\\Пользователь\\.nuget\\packages\\",
-      "outputPath": "E:\\ProgrammingProjects\\AstroLibrary\\src\\Astro.WebApi\\obj\\",
+      "outputPath": "E:\\ProgrammingProjects\\CSharpProjectsRepository\\src\\Astro.WebApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Пользователь\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -3489,11 +3489,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "E:\\ProgrammingProjects\\AstroLibrary\\src\\Astro.Application\\Astro.Application.csproj": {
-              "projectPath": "E:\\ProgrammingProjects\\AstroLibrary\\src\\Astro.Application\\Astro.Application.csproj"
+            "E:\\ProgrammingProjects\\CSharpProjectsRepository\\src\\Astro.Application\\Astro.Application.csproj": {
+              "projectPath": "E:\\ProgrammingProjects\\CSharpProjectsRepository\\src\\Astro.Application\\Astro.Application.csproj"
             },
-            "E:\\ProgrammingProjects\\AstroLibrary\\src\\Astro.Database\\Astro.Database.csproj": {
-              "projectPath": "E:\\ProgrammingProjects\\AstroLibrary\\src\\Astro.Database\\Astro.Database.csproj"
+            "E:\\ProgrammingProjects\\CSharpProjectsRepository\\src\\Astro.Database\\Astro.Database.csproj": {
+              "projectPath": "E:\\ProgrammingProjects\\CSharpProjectsRepository\\src\\Astro.Database\\Astro.Database.csproj"
             }
           }
         }

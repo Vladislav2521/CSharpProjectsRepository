@@ -46,3 +46,15 @@ E:\Programming Projects\CSharp projects repos\Astro — копия\src\Astro.Con
 E:\Programming Projects\CSharp projects repos\Astro — копия\src\Astro.Contracts\obj\Debug\net6.0\refint\Astro.Contracts.dll
 E:\Programming Projects\CSharp projects repos\Astro — копия\src\Astro.Contracts\obj\Debug\net6.0\Astro.Contracts.pdb
 E:\Programming Projects\CSharp projects repos\Astro — копия\src\Astro.Contracts\obj\Debug\net6.0\ref\Astro.Contracts.dll
+E:\ProgrammingProjects\CSharpProjectsRepository\src\Astro.Contracts\bin\Debug\net6.0\Astro.Contracts.deps.json
+E:\ProgrammingProjects\CSharpProjectsRepository\src\Astro.Contracts\bin\Debug\net6.0\Astro.Contracts.dll
+E:\ProgrammingProjects\CSharpProjectsRepository\src\Astro.Contracts\bin\Debug\net6.0\Astro.Contracts.pdb
+E:\ProgrammingProjects\CSharpProjectsRepository\src\Astro.Contracts\obj\Debug\net6.0\Astro.Contracts.csproj.AssemblyReference.cache
+E:\ProgrammingProjects\CSharpProjectsRepository\src\Astro.Contracts\obj\Debug\net6.0\Astro.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+E:\ProgrammingProjects\CSharpProjectsRepository\src\Astro.Contracts\obj\Debug\net6.0\Astro.Contracts.AssemblyInfoInputs.cache
+E:\ProgrammingProjects\CSharpProjectsRepository\src\Astro.Contracts\obj\Debug\net6.0\Astro.Contracts.AssemblyInfo.cs
+E:\ProgrammingProjects\CSharpProjectsRepository\src\Astro.Contracts\obj\Debug\net6.0\Astro.Contracts.csproj.CoreCompileInputs.cache
+E:\ProgrammingProjects\CSharpProjectsRepository\src\Astro.Contracts\obj\Debug\net6.0\Astro.Contracts.dll
+E:\ProgrammingProjects\CSharpProjectsRepository\src\Astro.Contracts\obj\Debug\net6.0\refint\Astro.Contracts.dll
+E:\ProgrammingProjects\CSharpProjectsRepository\src\Astro.Contracts\obj\Debug\net6.0\Astro.Contracts.pdb
+E:\ProgrammingProjects\CSharpProjectsRepository\src\Astro.Contracts\obj\Debug\net6.0\ref\Astro.Contracts.dll

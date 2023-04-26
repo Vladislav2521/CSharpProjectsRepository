@@ -93,3 +93,22 @@ E:\Programming Projects\CSharp projects repos\Astro — копия\src\Astro.Dat
 E:\Programming Projects\CSharp projects repos\Astro — копия\src\Astro.Database\obj\Debug\net6.0\Astro.Database.pdb
 E:\Programming Projects\CSharp projects repos\Astro — копия\src\Astro.Database\obj\Debug\net6.0\Astro.Database.genruntimeconfig.cache
 E:\Programming Projects\CSharp projects repos\Astro — копия\src\Astro.Database\obj\Debug\net6.0\ref\Astro.Database.dll
+E:\ProgrammingProjects\CSharpProjectsRepository\src\Astro.Database\bin\Debug\net6.0\Astro.Database.deps.json
+E:\ProgrammingProjects\CSharpProjectsRepository\src\Astro.Database\bin\Debug\net6.0\Astro.Database.runtimeconfig.json
+E:\ProgrammingProjects\CSharpProjectsRepository\src\Astro.Database\bin\Debug\net6.0\Astro.Database.dll
+E:\ProgrammingProjects\CSharpProjectsRepository\src\Astro.Database\bin\Debug\net6.0\Astro.Database.pdb
+E:\ProgrammingProjects\CSharpProjectsRepository\src\Astro.Database\bin\Debug\net6.0\Astro.Contracts.dll
+E:\ProgrammingProjects\CSharpProjectsRepository\src\Astro.Database\bin\Debug\net6.0\Astro.Domain.dll
+E:\ProgrammingProjects\CSharpProjectsRepository\src\Astro.Database\bin\Debug\net6.0\Astro.Contracts.pdb
+E:\ProgrammingProjects\CSharpProjectsRepository\src\Astro.Database\bin\Debug\net6.0\Astro.Domain.pdb
+E:\ProgrammingProjects\CSharpProjectsRepository\src\Astro.Database\obj\Debug\net6.0\Astro.Database.csproj.AssemblyReference.cache
+E:\ProgrammingProjects\CSharpProjectsRepository\src\Astro.Database\obj\Debug\net6.0\Astro.Database.GeneratedMSBuildEditorConfig.editorconfig
+E:\ProgrammingProjects\CSharpProjectsRepository\src\Astro.Database\obj\Debug\net6.0\Astro.Database.AssemblyInfoInputs.cache
+E:\ProgrammingProjects\CSharpProjectsRepository\src\Astro.Database\obj\Debug\net6.0\Astro.Database.AssemblyInfo.cs
+E:\ProgrammingProjects\CSharpProjectsRepository\src\Astro.Database\obj\Debug\net6.0\Astro.Database.csproj.CoreCompileInputs.cache
+E:\ProgrammingProjects\CSharpProjectsRepository\src\Astro.Database\obj\Debug\net6.0\Astro.Database.csproj.CopyComplete
+E:\ProgrammingProjects\CSharpProjectsRepository\src\Astro.Database\obj\Debug\net6.0\Astro.Database.dll
+E:\ProgrammingProjects\CSharpProjectsRepository\src\Astro.Database\obj\Debug\net6.0\refint\Astro.Database.dll
+E:\ProgrammingProjects\CSharpProjectsRepository\src\Astro.Database\obj\Debug\net6.0\Astro.Database.pdb
+E:\ProgrammingProjects\CSharpProjectsRepository\src\Astro.Database\obj\Debug\net6.0\Astro.Database.genruntimeconfig.cache
+E:\ProgrammingProjects\CSharpProjectsRepository\src\Astro.Database\obj\Debug\net6.0\ref\Astro.Database.dll

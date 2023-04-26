@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kDrz/3hYVB0EMbOoJyr6+0G6bqc26RFpbe5WfJWvq+3coyDjyJig7Qc5T4WU5sv+uSaaC0f9zlvVI5b226UyTg==",
+  "dgSpecHash": "WgzM5EUdT6RwQbKkGCQTzTrM8jy26rNOBV2jEGqeTY88GLC5wJKH7Qc1JuzxWrlkScufYNpGpZyu6YgVq+D8aQ==",
   "success": true,
-  "projectFilePath": "E:\\ProgrammingProjects\\AstroLibrary\\src\\Astro.Database\\Astro.Database.csproj",
+  "projectFilePath": "E:\\ProgrammingProjects\\CSharpProjectsRepository\\src\\Astro.Database\\Astro.Database.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Пользователь\\.nuget\\packages\\efcore.namingconventions\\6.0.0\\efcore.namingconventions.6.0.0.nupkg.sha512",
     "C:\\Users\\Пользователь\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",

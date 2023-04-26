@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\ProgrammingProjects\\AstroLibrary\\src\\Astro.Contracts\\Astro.Contracts.csproj",
+      "projectUniqueName": "E:\\ProgrammingProjects\\CSharpProjectsRepository\\src\\Astro.Contracts\\Astro.Contracts.csproj",
       "projectName": "Astro.Contracts",
-      "projectPath": "E:\\ProgrammingProjects\\AstroLibrary\\src\\Astro.Contracts\\Astro.Contracts.csproj",
+      "projectPath": "E:\\ProgrammingProjects\\CSharpProjectsRepository\\src\\Astro.Contracts\\Astro.Contracts.csproj",
       "packagesPath": "C:\\Users\\Пользователь\\.nuget\\packages\\",
-      "outputPath": "E:\\ProgrammingProjects\\AstroLibrary\\src\\Astro.Contracts\\obj\\",
+      "outputPath": "E:\\ProgrammingProjects\\CSharpProjectsRepository\\src\\Astro.Contracts\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Пользователь\\AppData\\Roaming\\NuGet\\NuGet.Config",

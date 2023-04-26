@@ -103,3 +103,24 @@ E:\Programming Projects\CSharp projects repos\Astro — копия\src\Astro.App
 E:\Programming Projects\CSharp projects repos\Astro — копия\src\Astro.Application\obj\Debug\net6.0\refint\Astro.Application.dll
 E:\Programming Projects\CSharp projects repos\Astro — копия\src\Astro.Application\obj\Debug\net6.0\Astro.Application.pdb
 E:\Programming Projects\CSharp projects repos\Astro — копия\src\Astro.Application\obj\Debug\net6.0\ref\Astro.Application.dll
+E:\ProgrammingProjects\CSharpProjectsRepository\src\Astro.Application\bin\Debug\net6.0\Astro.Application.deps.json
+E:\ProgrammingProjects\CSharpProjectsRepository\src\Astro.Application\bin\Debug\net6.0\Astro.Application.dll
+E:\ProgrammingProjects\CSharpProjectsRepository\src\Astro.Application\bin\Debug\net6.0\Astro.Application.pdb
+E:\ProgrammingProjects\CSharpProjectsRepository\src\Astro.Application\bin\Debug\net6.0\Astro.Contracts.dll
+E:\ProgrammingProjects\CSharpProjectsRepository\src\Astro.Application\bin\Debug\net6.0\Astro.Database.dll
+E:\ProgrammingProjects\CSharpProjectsRepository\src\Astro.Application\bin\Debug\net6.0\Astro.Domain.dll
+E:\ProgrammingProjects\CSharpProjectsRepository\src\Astro.Application\bin\Debug\net6.0\Astro.Infrasructure.dll
+E:\ProgrammingProjects\CSharpProjectsRepository\src\Astro.Application\bin\Debug\net6.0\Astro.Database.pdb
+E:\ProgrammingProjects\CSharpProjectsRepository\src\Astro.Application\bin\Debug\net6.0\Astro.Domain.pdb
+E:\ProgrammingProjects\CSharpProjectsRepository\src\Astro.Application\bin\Debug\net6.0\Astro.Infrasructure.pdb
+E:\ProgrammingProjects\CSharpProjectsRepository\src\Astro.Application\bin\Debug\net6.0\Astro.Contracts.pdb
+E:\ProgrammingProjects\CSharpProjectsRepository\src\Astro.Application\obj\Debug\net6.0\Astro.Application.csproj.AssemblyReference.cache
+E:\ProgrammingProjects\CSharpProjectsRepository\src\Astro.Application\obj\Debug\net6.0\Astro.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\ProgrammingProjects\CSharpProjectsRepository\src\Astro.Application\obj\Debug\net6.0\Astro.Application.AssemblyInfoInputs.cache
+E:\ProgrammingProjects\CSharpProjectsRepository\src\Astro.Application\obj\Debug\net6.0\Astro.Application.AssemblyInfo.cs
+E:\ProgrammingProjects\CSharpProjectsRepository\src\Astro.Application\obj\Debug\net6.0\Astro.Application.csproj.CoreCompileInputs.cache
+E:\ProgrammingProjects\CSharpProjectsRepository\src\Astro.Application\obj\Debug\net6.0\Astro.Application.csproj.CopyComplete
+E:\ProgrammingProjects\CSharpProjectsRepository\src\Astro.Application\obj\Debug\net6.0\Astro.Application.dll
+E:\ProgrammingProjects\CSharpProjectsRepository\src\Astro.Application\obj\Debug\net6.0\refint\Astro.Application.dll
+E:\ProgrammingProjects\CSharpProjectsRepository\src\Astro.Application\obj\Debug\net6.0\Astro.Application.pdb
+E:\ProgrammingProjects\CSharpProjectsRepository\src\Astro.Application\obj\Debug\net6.0\ref\Astro.Application.dll
