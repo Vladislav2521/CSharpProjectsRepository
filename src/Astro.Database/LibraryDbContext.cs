@@ -12,6 +12,8 @@ namespace Astro.Database // объявление пространства име
     {
         public DbSet<User> User; // определение свойства User типа DbSet<User>, которое представляет собой таблицу пользователей в базе данных.
         public DbSet<Book> Book; // определение свойства Book типа DbSet<Book>, которое представляет собой таблицу книг в базе данных.
+        public DbSet<Review> Review; // определение свойства Review типа DbSet<Review>, которое представляет собой таблицу отзывов в базе данных.
+        public DbSet<Author> Author; // определение свойства Author типа DbSet<Author>, которое представляет собой таблицу авторов в базе данных.
 
         /// <summary>
         /// Конструктор
@@ -36,6 +38,9 @@ namespace Astro.Database // объявление пространства име
 
             modelBuilder.Entity<User>().ToTable("user"); //  определение таблицы user для сущности User.
             modelBuilder.Entity<Book>().ToTable("book"); //  определение таблицы book для сущности Book.
+            modelBuilder.Entity<Review>().ToTable("review");
+            modelBuilder.Entity<Author>().ToTable("author");
+
         }
     }
 }

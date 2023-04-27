@@ -2,7 +2,6 @@
 using Astro.Domain.Entities;
 using Astro.WebApi.Services;
 using Microsoft.AspNetCore.Mvc;
-using Astro.WebApi.Services;
 using Astro.WebApi.Params;
 using Astro.WebApi.Models;
 

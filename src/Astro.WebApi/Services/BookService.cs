@@ -73,6 +73,7 @@ namespace Astro.WebApi.Services
 
             return bookModel;
         }
+
         public BookShortModel GetBookShortInfo(int id)
         {
             var book = bookDbContext.Set<Book>().FirstOrDefault(book => book.Id == id); // сырая книга
@@ -110,7 +111,6 @@ namespace Astro.WebApi.Services
             else return false;
         }
         // Теперь метод принимает AuthorId вместо Author в параметрах, создаёт объект Author из базы данных на основе AuthorId, и назначает его свойству Author сущности Book.
-
 
         public bool DeleteBook(int id)
         {

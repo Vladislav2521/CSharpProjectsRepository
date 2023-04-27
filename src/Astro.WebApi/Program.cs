@@ -25,6 +25,7 @@ namespace Astro.WebApi
             builder.Services.AddDbContext<LibraryDbContext>();
             builder.Services.AddTransient<UserService>();
             builder.Services.AddTransient<BookService>();
+            builder.Services.AddTransient<ReviewService>(); // зарегистрировав ReviewService с использованием метода AddTransient решило проблему с внедрением зависимостей
             /////////////
 
 

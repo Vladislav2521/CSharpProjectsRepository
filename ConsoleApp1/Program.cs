@@ -34,16 +34,17 @@ reviews.Add(review5);
 // кол.во отзывов на книгу под номером 5
 int number = 0;
 
-
-
 foreach (var review in reviews)
 {
-    if (review.BookId == 5)
+    if (review.BookId == 3)
     {
         number++;
     }
 }
 Console.WriteLine(number);
+
+int number2 = reviews.Count(r => r.BookId == 3);
+Console.WriteLine(number2);
 
 public class Review
 {
