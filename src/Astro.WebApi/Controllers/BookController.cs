@@ -36,7 +36,6 @@ namespace Astro.WebApi.Controllers
             else return Content("Не удалось создать книгу");
         }
 
-
         [HttpGet("GetBookInfo")]
         public BookModel GetBookInfo(int id)
         {
@@ -49,10 +48,15 @@ namespace Astro.WebApi.Controllers
         {
            var book = bookService.GetBookShortInfo(id);
            return book;
-          
-            
         }
         // IActionResult не используется в методах GET.
+
+        [HttpGet("GetAllBooks")]
+        public List<BooksAllModel> GetAllBooks()
+        {
+            var books = bookService.GetAllBooks();
+            return books;
+        }
 
         [HttpPut("UpdateBook")]
         public IActionResult UpdateBook(UpdateBookParams bookToUpdate)

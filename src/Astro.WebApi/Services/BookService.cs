@@ -90,6 +90,29 @@ namespace Astro.WebApi.Services
             return book.Title; // Указал тип метода string, потому-что Title это string.
         }
 
+        public List<BooksAllModel> GetAllBooks()
+        {
+            var books = bookDbContext.Set<Book>() // в переменной "books" хранится список всех объектов типа 'Book' из БД
+                .Include(book => book.Reviews)
+                .Include(book => book.Author)// в результате запроса включил связанные отзывы к каждой книге, а поле ReviewNumber внутри цикла используется для того, чтобы эти все отзывы посчитать.
+                .ToList(); // получаю все объекты 'Book' из БД в виде списка (использую метод ToList)
+            var bookList = new List<BooksAllModel>(); // создал новый пустой список, куда буду сохранять объекты 'BooksAllModel'
+
+            foreach (var book in books) // при помощи цикла перебираю каждую book в переменной books, хранящей список всех книг
+            {
+                BooksAllModel bookInfo = new BooksAllModel // для каждой книги я создаю новый объект bookInfo
+                {                                          // ниже идёт присвоение свойствам объекта bookInfo значений из объекта book (полученным при переборе элеметов foreach'ем)
+                    Id = book.Id,
+                    Title = book.Title,
+                    Author = book.Author.Name,
+                    ReviewNumber = book.Reviews.Count // при помощи Count считаю количество всех отзывов на книгу и присваиваю эту цифру свойству ReviewNumber
+                };
+
+                bookList.Add(bookInfo); // пушу поля с данными из bookInfo в bookList
+            }
+            return bookList; // в итоге возвращаю список книг (содержит все объекты из bookInfo)
+        }
+
         public bool UpdateBook(UpdateBookParams bookToUpdate)
         {
             var existingBook = bookDbContext.Set<Book>().FirstOrDefault(book => book.Id == bookToUpdate.Id);

@@ -9,6 +9,5 @@ namespace Astro.WebApi.Params
         public int Rating { get; set; }
         public int BookId { get; set; }
         public int UserId { get; set; }
-        public DateTime PublishedDateTime { get; set; }
     }
 }
