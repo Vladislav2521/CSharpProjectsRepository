@@ -26,16 +26,12 @@ namespace Astro.WebApi.Controllers
         }
 
         [HttpPost("CreateBook")]
-        public IActionResult CreateBook(CreateBookParams bookToCreate)
+        public void CreateBook(CreateBookParams bookToCreate)
         {
-            bool bookCreated = bookService.CreateBook(bookToCreate);
-            if (bookCreated == true)
-            {
-                return Ok("Книга успешно создана");
-            }
-            else return Content("Не удалось создать книгу");
+            bookService.CreateBook(bookToCreate);
         }
-
+         
+        // В методах GET в контроллере обычно происходит возврат переменной в метод с передачей модели
         [HttpGet("GetBookInfo")]
         public BookModel GetBookInfo(int id)
         {
@@ -51,35 +47,59 @@ namespace Astro.WebApi.Controllers
         }
         // IActionResult не используется в методах GET.
 
-        [HttpGet("GetAllBooks")]
-        public List<BooksAllModel> GetAllBooks()
+        [HttpGet("GetBooksByAuthor")]
+        public List<BookModel> GetBooksByAuthor(Author author)
         {
-            var books = bookService.GetAllBooks();
+            var books = bookService.GetBooksByAuthor(author);
             return books;
         }
 
-        [HttpPut("UpdateBook")]
-        public IActionResult UpdateBook(UpdateBookParams bookToUpdate)
+        [HttpGet("GetBooksMoreThanReviewCount")]   // дописать контроллер-метод
+        public List<BookModel> GetBooksMoreThanReviewCount(int reviewCount)
         {
-            bool bookUpdated = bookService.UpdateBook(bookToUpdate);
-            if (bookUpdated == true)
-            {
-                return Ok("Книга успешно отредактирована");
-            }
-            else return Content("Не удалось отредактировать книгу");
+            var books = bookService.GetBooksMoreThanReviewCount(reviewCount);
+            return books;
         }
 
-        [HttpDelete("DeleteBook")]
-        public IActionResult DeleteBook(int id)
+        [HttpGet("GetBooksWithFirstReview")]
+        public List<BooksWithReviewsModel> GetBooksWithFirstReview()
         {
-            bool bookDeleted = bookService.DeleteBook(id);
-            // Проверяем была ли удалена книга из БД
+            var books = bookService.GetBooksWithFirstReview();
+            return books;
+        }
 
-            if (bookDeleted == true)
-            {
-                return Ok("Книга успешно удалена");
-            }
-            else return Content("Невозможно удалить несуществующую книгу");
+        [HttpGet("GetBooksInfo")]
+        public BooksInfoModel GetBooksInfo()
+        {
+            var books = bookService.GetBooksInfo();
+            return books;
+        }
+
+        [HttpGet("GetBookTitle")]
+        public string GetBookTitle(int id)
+        {
+            var title = bookService.GetBookTitle(id);
+            return title;
+        }
+
+        [HttpGet("GetAllBooksInfo")]
+        public List<BooksAllModel> GetAllBooksInfo()
+        {
+            var books = bookService.GetAllBooksInfo();
+            return books;
+        }
+
+        // Никаких статусных ответов в методах UpdateBook и DeleteBook возвращать не нужно.
+        [HttpPut("UpdateBook")]
+        public void UpdateBook(UpdateBookParams bookToUpdate)
+        {
+            bookService.UpdateBook(bookToUpdate);
+        }
+        
+        [HttpDelete("DeleteBook")]
+        public void DeleteBook(int id)
+        {
+            bookService.DeleteBook(id);
         }
     }
 }

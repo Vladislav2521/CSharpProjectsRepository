@@ -19,16 +19,11 @@ namespace Astro.WebApi.Controllers
         }
 
         [HttpPost("CreateReview")]
-        public IActionResult CreateReview(CreateReviewParams reviewToCreate)
+        public void CreateReview(CreateReviewParams reviewToCreate)
         {
-            bool reviewCreated = reviewService.CreateReview(reviewToCreate);
-            if (reviewCreated == true)
-            {
-                return Ok("Отзыв успешно создан");
-            }
-            else return Content("Не удалось создать отзыв");
+            reviewService.CreateReview(reviewToCreate);
+            
         }
-        // IActionResult не используется в методах GET.
 
         [HttpGet("GetReviewInfo")]
         public ReviewModel GetReviewInfo(int id)
@@ -38,26 +33,15 @@ namespace Astro.WebApi.Controllers
         }
 
         [HttpPut("UpdateReview")]
-        public IActionResult UpdateReview(UpdateReviewParams reviewToUpdate)
+        public void UpdateReview(UpdateReviewParams reviewToUpdate)
         {
-            bool reviewUpdated = reviewService.UpdateReview(reviewToUpdate);
-            if (reviewUpdated == true)
-            {
-                return Ok("Отзыв успешно отредактирован");
-            }
-            else return Content("Не удалось отредактировать отзыв");
+            reviewService.UpdateReview(reviewToUpdate);
         }
 
         [HttpDelete("DeleteReview")]
-        public IActionResult DeleteReview(int id)
+        public void DeleteReview(int id)
         {
-            bool reviewDeleted = reviewService.DeleteReview(id);
-            if (reviewDeleted == true)
-            {
-                return Ok("Отзыв успешно удален");
-            }
-            else return Content("Невозможно удалить несуществующий отзыв");
-
+            reviewService.DeleteReview(id);
         }
     }
 }

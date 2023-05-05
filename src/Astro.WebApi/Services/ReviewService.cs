@@ -14,7 +14,7 @@ namespace Astro.WebApi.Services
         {
             this.reviewDbContext = reviewDbContext;
         }
-        // Все методы по Review рабочие
+        // Все методы по Review функционируют исправно
 
         // метод CreateReview ничего не отдаёт, поэтому Model тут не нужна
         public bool CreateReview(CreateReviewParams reviewToCreate) { 
@@ -31,6 +31,7 @@ namespace Astro.WebApi.Services
 
             return true;
         }
+
         public ReviewModel GetReviewInfo(int id)
         {
             var review = reviewDbContext.Set<Review>().FirstOrDefault(review => review.Id == id); // сырой отзыв
@@ -45,9 +46,7 @@ namespace Astro.WebApi.Services
             return reviewModel;
         }
 
-
-
-        public bool UpdateReview(UpdateReviewParams reviewToUpdate)
+        public void UpdateReview(UpdateReviewParams reviewToUpdate)
         {
             var existingReview = reviewDbContext.Set<Review>().FirstOrDefault(review => review.Id == reviewToUpdate.Id);
             if (existingReview != null)
@@ -58,22 +57,18 @@ namespace Astro.WebApi.Services
                 existingReview.UserId = reviewToUpdate.UserId;
                 existingReview.PublishedDateTime = DateTime.Now; // при обновлении отзыва, существующему отзыву нужно присвоить текущее время редактирования
                 
-                reviewDbContext.SaveChanges();
-                return true;
+                reviewDbContext.SaveChanges();   
             }
-            else return false;
         }
 
-        public bool DeleteReview(int id)
+        public void DeleteReview(int id)
         {
             var reviewToDelete = reviewDbContext.Set<Review>().FirstOrDefault(review => review.Id == id);
             if (reviewToDelete != null)
             {
                 reviewDbContext.Set<Review>().Remove(reviewToDelete);
-                reviewDbContext.SaveChanges();
-                return true;
+                reviewDbContext.SaveChanges();   
             }
-            else return false;
         }
 
     }

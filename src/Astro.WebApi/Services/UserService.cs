@@ -1,94 +1,79 @@
 ﻿using Astro.Database;
 using Astro.Domain.Entities;
+using Astro.WebApi.Models;
+using Astro.WebApi.Params;
 using Microsoft.AspNetCore.Mvc;
 
 namespace Astro.WebApi.Services
 {
     public class UserService
     {
-        private LibraryDbContext libraryDbContext; // Создаётся поле с контекстом БД
+        private LibraryDbContext userDbContext; // Создаётя поле типа LibraryDbContext при помощи которого мои методы будут взаимодействовать с БД
 
-        public UserService(LibraryDbContext libraryDbContext)
-        {
-            this.libraryDbContext = libraryDbContext;
+        public UserService(LibraryDbContext userDbContext) // Конструктор принимает параметр "userDbContext" типа LibraryDbContext, это значит, что при создании экземпляра UserService,
+                                                           // необходимо передать объект LibraryDbContext.
+        {                                                  // Параметр "userDbContext" необходим для взаимодействия с БД, параметр "userDbContext" передаётся в конструктор при создании экземпляра класса UserService
+            this.userDbContext = userDbContext;            
         }
+        // Внутри конструктора происходит присвоение значения параметра userDbContext полю this.userDbContect.
+        // Таким образом, поле userDbContext класса UserService, будет содержать переданный объект LibraryDbContext, который будет использоваться для выполнения операций с БД.
+        // Это позволяет классу UserService в котором размещены мои методы, получить доступ к контексту базы данных и использовать его для выполнения операций с данными.
 
-        public void CreateUser(
-            string firstName,
-            string lastName,
-            int year,
-            string email
-            )
+        public void CreateUser(CreateUserParams userToCreate)
         {
             User user = new User(); // Создаём экземпляр класса, чтобы связать параметры и поля
-            user.FirstName = firstName;
-            user.LastName = lastName;
-            user.Year = year;
-            user.Email = email;
+            user.FirstName = userToCreate.FirstName;
+            user.LastName = userToCreate.LastName;
+            user.Year = userToCreate.Year;
+            user.Email = userToCreate.Email;
 
-            libraryDbContext.Set<User>().Add(user);
-            libraryDbContext.SaveChanges();
+            userDbContext.Set<User>().Add(user);
+            userDbContext.SaveChanges();
         }
 
-        public bool DeleteUser(string firstName, string lastName)
+        public UserModel GetUserInfo(int id)
         {
-
-            User userToDelete = libraryDbContext.Set<User>().First(u => u.FirstName == firstName && u.LastName == lastName); // В этой строке мы используем shopDbContext, чтобы получить сущность User из базы данных. Метод Set<User>() возвращает объект, представляющий коллекцию сущностей User, хранящихся в базе данных.
-            // Результат этой операции сохраняется в переменной userToDelete, которая имеет тип User.                               // Затем мы используем метод SingleOrDefault() LINQ, чтобы найти первый элемент в коллекции, удовлетворяющий условию, заданному в лямбда-выражении. В данном случае мы ищем пользователя с именем firstName и фамилией lastName.
-            
-            if (userToDelete != null) // Затем мы проверяем, что переменная userToDelete не равна null, что означает, что пользователь с указанным именем и фамилией был найден в базе данных.
-            {
-                libraryDbContext.Set<User>().Remove(userToDelete); // Если пользователь был найден, мы используем shopDbContext для удаления сущности User из базы данных. Для этого мы вызываем метод Remove() для объекта shopDbContext.Set<User>() и передаем ему сущность userToDelete.
-                libraryDbContext.SaveChanges(); // После удаления сущности User мы вызываем метод SaveChanges() для shopDbContext, чтобы сохранить изменения в базе данных.
-                return true; // Возвращаемое значение true указывает на то, что пользователь был успешно удален из базы данных.
-            }
-            else return false; // Если переменная userToDelete равна null, то пользователь с указанным именем и фамилией не был найден в базе данных, поэтому мы возвращаем false.
+            var user = userDbContext.Set<User>().FirstOrDefault(user => user.Id == id); // поиск необходимого пользователя по параметру id
+            var userModel = new UserModel(); // cоздание экземпляра класса, где буду хранить своего пользователя, выдернутого из БД. Создавать надо для того, чтобы отдавать модель.
+            userModel.Id = id;
+            userModel.FirstName = user.FirstName;
+            userModel.LastName = user.LastName;
+            userModel.Year = user.Year;
+            userModel.Email = user.Email;
+                                             // все поля из выдернутого объекта user из БД присваиватся полям пустой модели, таким образом заполняя её
+            userDbContext.SaveChanges();                              
+            return userModel; // данные возвращаются и метод отдаёт модель с заполненными полями
 
         }
 
+        // Implement a method GetAllUsers()
         
-
-
-
-        public int GetUserCount()
+        public void UpdateUser(UpdateUserParams userToUpdate)
         {
-            return libraryDbContext.Set<User>().Count();
-        }
-
-        public string GetFirstNameOfAllUsers()
-        {
-            var users = libraryDbContext.Set<User>().ToList();
-            string names = "";
-
-            foreach (var user in users)
+            var existingUser = userDbContext.Set<User>().FirstOrDefault(user => user.Id == userToUpdate.Id);
+            if (existingUser != null)
             {
-                names = names + ", " + user.FirstName;
-            }
+                existingUser.FirstName = userToUpdate.FirstName;
+                existingUser.LastName = userToUpdate.LastName;
+                existingUser.Year = userToUpdate.Year;
+                existingUser.Email = userToUpdate.Email;
 
-            return names;
+                userDbContext.SaveChanges();
+                
+            }
         }
 
-        public int GetYearSumOfAllUsers()
+        public void DeleteUser(int id)
         {
-            var users = libraryDbContext.Set<User>().ToList();
-            int sum = 0;
 
-            foreach (var user in users)
+            User userToDelete = userDbContext.Set<User>().FirstOrDefault(user => user.Id == id); 
+            
+            if (userToDelete != null) 
             {
-                sum = sum + user.Year;
+                userDbContext.Set<User>().Remove(userToDelete);
+                userDbContext.SaveChanges(); 
             }
-
-            return sum;
-        }
-
-        public int GetUserCountByField()
-        {
-            return 5;
-        }
-
-        public int GetUserCountByField2()
-        {
-            return 4;
+              
         }
     }
 }
