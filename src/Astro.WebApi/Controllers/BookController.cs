@@ -47,14 +47,29 @@ namespace Astro.WebApi.Controllers
         }
         // IActionResult не используется в методах GET.
 
-        [HttpGet("GetBooksByAuthor")]
-        public List<BookModel> GetBooksByAuthor(Author author)
+        [HttpGet("GetBooksByAuthorSortedByReviewsCount")]
+        public List<BookModel> GetBooksByAuthorSortedByReviewsCount(int id)
         {
-            var books = bookService.GetBooksByAuthor(author);
+            var books = bookService.GetBooksByAuthorSortedByReviewsCount(id);
             return books;
         }
 
-        [HttpGet("GetBooksMoreThanReviewCount")]   // дописать контроллер-метод
+
+        [HttpGet("GetBookTitlesWithoutReviews")]
+        public List<string> GetBookTitlesWithoutReviews()
+        {
+            var books = bookService.GetBookTitlesWithoutReviews();
+            return books;
+        }
+
+        [HttpGet("GetAllAuthors")]
+        public List<AuthorsListModel> GetAllAuthors()
+        {
+            var authors = bookService.GetAllAuthors();
+            return authors;
+        }
+
+        [HttpGet("GetBooksMoreThanReviewCount")]
         public List<BookModel> GetBooksMoreThanReviewCount(int reviewCount)
         {
             var books = bookService.GetBooksMoreThanReviewCount(reviewCount);

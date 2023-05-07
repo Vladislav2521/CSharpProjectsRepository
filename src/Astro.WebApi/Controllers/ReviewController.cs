@@ -32,6 +32,13 @@ namespace Astro.WebApi.Controllers
             return review;
         }
 
+        [HttpGet("GetReviewsOfTheMostPopularBook")]
+        public List<ReviewModel> GetReviewsOfTheMostPopularBook()
+        {
+            var reviews = reviewService.GetReviewsOfTheMostPopularBook();
+            return reviews;
+        }
+
         [HttpPut("UpdateReview")]
         public void UpdateReview(UpdateReviewParams reviewToUpdate)
         {

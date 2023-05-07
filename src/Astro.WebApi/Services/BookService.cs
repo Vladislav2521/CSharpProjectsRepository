@@ -16,11 +16,11 @@ namespace Astro.WebApi.Services
     // таких как получение, добавление, обновление и удаление объектов типа Book. Как правило, в методах сервиса определяются логика выполнения этих операций в зависимости от требований приложения.
     public class BookService
     {
-        private LibraryDbContext bookDbContext; // Создаётся поле с контекстом БД
+        private LibraryDbContext DbContext; // Создаётся поле с контекстом БД
 
-        public BookService(LibraryDbContext bookDbContext)
+        public BookService(LibraryDbContext DbContext)
         {
-            this.bookDbContext = bookDbContext;
+            this.DbContext = DbContext;
         }
 
         // Не ко всем методам Book написаны методы в BookController
@@ -37,7 +37,7 @@ namespace Astro.WebApi.Services
         {
             Book newBook = new Book();                        // создаётся новый объект newBook, экземпляр класса Book
             newBook.Title = bookToCreate.Title;               // значение свойства Title объекта newBook присваивается из параметра bookToCreate класса CreateBookParams.
-            var author = bookDbContext.Set<Author>().FirstOrDefault(author => author.Name == bookToCreate.Author); // в переменную "author" записывается результат запроса к базе данных с помощью метода FirstOrDefault.
+            var author = DbContext.Set<Author>().FirstOrDefault(author => author.Name == bookToCreate.Author); // в переменную "author" записывается результат запроса к базе данных с помощью метода FirstOrDefault.
                                                               // Мы ищем автора в БД с помощью FirstOrDefault, передавая в качестве аргумента лямбда-выражение, которое проверяет, равно ли свойство Name объекта Author
                                                   // имени, указанному в bookToCreate. 
             if (author != null) // проверяется, найден ли автор в БД
@@ -56,8 +56,8 @@ namespace Astro.WebApi.Services
             newBook.Genre = bookToCreate.Genre;
             newBook.Price = bookToCreate.Price;
 
-            bookDbContext.Set<Book>().Add(newBook); // добавляем объект newBook в контекст БД
-            bookDbContext.SaveChanges();
+            DbContext.Set<Book>().Add(newBook); // добавляем объект newBook в контекст БД
+            DbContext.SaveChanges();
             return true; 
         }
 
@@ -65,13 +65,13 @@ namespace Astro.WebApi.Services
         // Модели используем тогда, когда возвращаем больше одного поля.
         public BookModel GetBookInfo(int id) // в 99% случаев ищут по уникальному полю 'Id'
         {
-            var book = bookDbContext.Set<Book>()
+            var book = DbContext.Set<Book>()
                 .Include(book => book.Author) // внутри Include указываются ссылки на навиг. свойства
                 .FirstOrDefault(book => book.Id == id);
             var bookModel = new BookModel(); // Создание экземпляра класса
             bookModel.Id = id;
             bookModel.Title = book.Title;
-            bookModel.Author = book.Author.Name;
+            bookModel.AuthorName = book.Author.Name;
             bookModel.Genre = book.Genre;
             bookModel.Price = book.Price;
 
@@ -80,7 +80,7 @@ namespace Astro.WebApi.Services
 
         public BookShortModel GetBookShortInfo(int id)
         {
-            var book = bookDbContext.Set<Book>()
+            var book = DbContext.Set<Book>()
                 .Include(book => book.Author)
                 .FirstOrDefault(book => book.Id == id); // сырая книга
             var bookShortInfoModel = new BookShortModel(); // Создание экземпляра класса
@@ -90,34 +90,57 @@ namespace Astro.WebApi.Services
             return bookShortInfoModel;
         }
 
-        public List<BookModel> GetBooksByAuthor(Author author)
+        public List<BookModel> GetBooksByAuthorSortedByReviewsCount(int id)
         {
-            var books = bookDbContext.Set<Book>()
-                .Where(w => w.Author.Name == author.Name) // отфильтровывает книги по автору  // в лямбда выражениях лучше называть параметр по первой букве метода
-                .OrderByDescending(o => o.Author.Name) // упорядочивает в нисходящей секвенции
+            var books = DbContext.Set<Book>()
+                .Where(w => w.AuthorId == id)
+                .OrderByDescending(o => o.Reviews.Count)
+                .Select(s => new BookModel
+                {
+                    Id = s.Id,
+                    Title = s.Title,
+                    AuthorName = s.Author.Name,
+                    Genre = s.Genre,
+                    Price = s.Price
+                })
                 .ToList();
-            var bookList = books.Select(s => new BookModel
-            {
-                Id = s.Id,
-                Title = s.Title,
-                Author = s.Author.Name,
-                Genre = s.Genre,
-                Price = s.Price
-            })
+            return books;
+        }
+
+        public List<string> GetBookTitlesWithoutReviews() 
+        {
+            var book = DbContext.Set<Book>()
+                .Where(w => w.Reviews.Count == 0);
+            List<string> titles = book.Select(s => s.Title)
                 .ToList();
-            return bookList;
+            
+            return titles;
+        }
+
+        public List<AuthorsListModel> GetAllAuthors() 
+        {
+            var authors = DbContext.Set<Author>()
+                .Select(s => new AuthorsListModel
+                {
+                    Id = s.Id,
+                    Name = s.Name,
+                    BooksNumber = s.Books.Count,
+                    AuthorTotalReviews = s.Books.Sum(b => b.Reviews.Count) // этот метод LINQ используется для подсчёта всех отзывов автора
+                })
+                .ToList();
+            return authors;
         }
 
         // не написан контроллер
         public List<BookModel> GetBooksMoreThanReviewCount(int reviewCount) // возвращает все книги количество отзывов на которые больше чем указал пользователь
         {
-            var books = bookDbContext.Set<Book>()
+            var books = DbContext.Set<Book>()
                 .Where(w => w.Reviews.Count > reviewCount)
                 .Select(s => new BookModel
                 {
                     Id = s.Id,
                     Title = s.Title,
-                    Author = s.Author.Name,
+                    AuthorName = s.Author.Name,
                     Genre = s.Genre,
                     Price = s.Price
                 })
@@ -127,7 +150,7 @@ namespace Astro.WebApi.Services
 
         public List<BooksWithReviewsModel> GetBooksWithFirstReview() // возвращаю книги с текстами первых отзывов
         {
-            var booksWithReviews = bookDbContext.Set<Book>() // Set<Book> возвращаю набор объектов из базы данных
+            var booksWithReviews = DbContext.Set<Book>() // Set<Book> возвращаю набор объектов из базы данных
                 .Include(i => i.Reviews) // этот метод помогает включить связанные объекты Reviews для каждого объекта Book. Это позволяет получить доступ к связанным отзывам книг.
                 .Where(w => w.Reviews.Any()) // метод Where фильтрует только те объекты Book, у которых есть хотябы один связанный отзыв. А метод Any() определяет содержит ли коллекция Reviews хотя бы один элемент (да = true, нет = false)
                 .Select(s => new BooksWithReviewsModel // преобразует каждый объект Book в новый объект BookWithReviewsModel, выбирая только необходимые поля для возврата (Id, Title, FirstReviewText)
@@ -142,11 +165,11 @@ namespace Astro.WebApi.Services
 
         public BooksInfoModel GetBooksInfo() 
         {
-            var booksQuery = bookDbContext.Set<Book>(); // создаю первоначальный запрос БД и сохраняю его в переменную booksQuery, которую использую ниже чтобы каждый раз не запрашивать
+            var booksQuery = DbContext.Set<Book>(); // создаю первоначальный запрос БД и сохраняю его в переменную booksQuery, которую использую ниже чтобы каждый раз не запрашивать
             // Шаг 1: Сохраняю все данные в переменные
             var booksCount = booksQuery.Count(); // подсчитываю количество книг
             var booksWithTwoOrMoreReviewsCount = booksQuery.Count(c => c.Reviews.Count >= 2); // подсчитываю книги с 2 или больше отзывами
-            var totalReviewsCount = bookDbContext.Set<Review>().Count(); // подсчитываю общее количество отзывов на все книги
+            var totalReviewsCount = DbContext.Set<Review>().Count(); // подсчитываю общее количество отзывов на все книги
             // Шаг 2: Создаю пустую переменную, экземляр класса BooksInfoModel, в поля переменной booksInfo прокидываю свои данные из переменных полученных выше
             var booksInfo = new BooksInfoModel
             {
@@ -159,13 +182,13 @@ namespace Astro.WebApi.Services
 
         public string GetBookTitle(int id)
         {
-            var book = bookDbContext.Set<Book>().FirstOrDefault(book => book.Id == id);
+            var book = DbContext.Set<Book>().FirstOrDefault(book => book.Id == id);
             return book.Title; // Указал тип метода string, потому-что Title это string.
         }
 
         public List<BooksAllModel> GetAllBooksInfo()
         {
-            var books = bookDbContext.Set<Book>() // в переменной "books" хранится список всех объектов типа 'Book' из БД
+            var books = DbContext.Set<Book>() // в переменной "books" хранится список всех объектов типа 'Book' из БД
                 .Include(book => book.Reviews)
                 .Include(book => book.Author)// в результате запроса включил связанные отзывы к каждой книге, а поле ReviewNumber внутри цикла используется для того, чтобы эти все отзывы посчитать.
                 .ToList(); // получаю все объекты 'Book' из БД в виде списка (использую метод ToList)
@@ -186,19 +209,21 @@ namespace Astro.WebApi.Services
             return bookList; // в итоге возвращаю список книг (содержит все объекты из bookInfo)
         }
 
+
+
         // Так как этот метод используется для обновления книги и не предлагается использование его в качестве результата или проверки на успешное обновление, то его следует изменить на 'void'.
         // Использование 'void' вместо 'bool' возвращает информацию о том, что метод не возвращает результат и не требует проверки результата. Это может быть полезно, если есть уверенность, 
         // что обновление книги всегда должно происходить без ошибок и проверки на успешное обновление не требуется.
         public void UpdateBook(UpdateBookParams bookToUpdate)
         {
-            var existingBook = bookDbContext.Set<Book>().FirstOrDefault(book => book.Id == bookToUpdate.Id);
+            var existingBook = DbContext.Set<Book>().FirstOrDefault(book => book.Id == bookToUpdate.Id);
             if (existingBook != null)
             {
                 existingBook.Title = bookToUpdate.Title;
                 existingBook.Genre = bookToUpdate.Genre;
                 existingBook.Price = bookToUpdate.Price;
 
-                var existingAuthor = bookDbContext.Set<Author>().FirstOrDefault(author => author.Id == bookToUpdate.AuthorId);
+                var existingAuthor = DbContext.Set<Author>().FirstOrDefault(author => author.Id == bookToUpdate.AuthorId);
                 if (existingAuthor != null)
                 {
                     existingBook.Author = existingAuthor;
@@ -207,7 +232,7 @@ namespace Astro.WebApi.Services
                 {
                     throw new Exception("Автор для редактирования не найден");
                 }
-                bookDbContext.SaveChanges();
+                DbContext.SaveChanges();
             }
             else
             {
@@ -218,12 +243,12 @@ namespace Astro.WebApi.Services
 
         public void DeleteBook(int id)
         {
-            Book bookToDelete = bookDbContext.Set<Book>().FirstOrDefault(book => book.Id == id);
+            Book bookToDelete = DbContext.Set<Book>().FirstOrDefault(book => book.Id == id);
 
             if (bookToDelete != null)
             {
-                bookDbContext.Remove(bookToDelete);
-                bookDbContext.SaveChanges();
+                DbContext.Remove(bookToDelete);
+                DbContext.SaveChanges();
             }
             else
             {
